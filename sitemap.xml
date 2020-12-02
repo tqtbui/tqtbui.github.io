@@ -48,11 +48,6 @@
   
     <url>
     
-      <loc>https://almost-surely.github.io/research/</loc>
-    </url>
-  
-    <url>
-    
       <loc>https://almost-surely.github.io/projects/python/</loc>
     </url>
   
@@ -64,6 +59,11 @@
     <url>
     
       <loc>https://almost-surely.github.io/talk/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://almost-surely.github.io/research/</loc>
     </url>
   
     <url>
