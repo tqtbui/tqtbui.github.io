@@ -20,6 +20,11 @@
   
     <url>
     
+      <loc>https://almost-surely.github.io/book/</loc>
+    </url>
+  
+    <url>
+    
       <loc>https://almost-surely.github.io/cv_academic/</loc>
     </url>
   
@@ -31,7 +36,7 @@
   
     <url>
     
-      <loc>https://almost-surely.github.io/packages/</loc>
+      <loc>https://almost-surely.github.io/projects/</loc>
       <priority>0</priority>
     </url>
   
@@ -43,12 +48,17 @@
   
     <url>
     
-      <loc>https://almost-surely.github.io/packages/python/</loc>
+      <loc>https://almost-surely.github.io/research/</loc>
     </url>
   
     <url>
     
-      <loc>https://almost-surely.github.io/packages/r/</loc>
+      <loc>https://almost-surely.github.io/projects/python/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>https://almost-surely.github.io/projects/r/</loc>
     </url>
   
     <url>
@@ -58,13 +68,13 @@
   
     <url>
     
-      <loc>https://almost-surely.github.io/publications/</loc>
+      <loc>https://almost-surely.github.io/tags/</loc>
+      <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://almost-surely.github.io/tags/</loc>
-      <priority>0</priority>
+      <loc>https://almost-surely.github.io/teaching/</loc>
     </url>
   
     <url>
