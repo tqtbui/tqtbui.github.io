@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Trang Bui</title>
-    <link>https://almost-surely.github.io/research/</link>
+    <link>https://tqtbui.github.io/research/</link>
     <description>Recent content in Research on Trang Bui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; {year} Trang Bui</copyright><atom:link href="https://almost-surely.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; {year} Trang Bui</copyright><atom:link href="https://tqtbui.github.io/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

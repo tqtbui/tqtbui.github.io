@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Trang Bui</title>
-    <link>https://almost-surely.github.io/authors/</link>
+    <link>https://tqtbui.github.io/authors/</link>
     <description>Recent content in Authors on Trang Bui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; {year} Trang Bui</copyright><atom:link href="https://almost-surely.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; {year} Trang Bui</copyright><atom:link href="https://tqtbui.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tqtbui</title>
-      <link>https://almost-surely.github.io/authors/tqtbui/</link>
+      <link>https://tqtbui.github.io/authors/tqtbui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://almost-surely.github.io/authors/tqtbui/</guid>
+      <guid>https://tqtbui.github.io/authors/tqtbui/</guid>
       <description></description>
     </item>
     
