@@ -26,20 +26,29 @@
       <description>&lt;hr&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;books-on-my-shelf&#34;&gt;Books on my shelf&lt;/h2&gt;
-&lt;p&gt;January 1, 2022&lt;/p&gt;
+&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
+&lt;p&gt;February 17, 2023&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Abraham, B., &amp;amp; Ledolter, J. (2006). Introduction to regression modeling. Belmont, CA: Thomson Brooks/Cole.&lt;/li&gt;
-&lt;li&gt;Kolaczyk, E. D., &amp;amp; Csárdi, G. (2014). Statistical analysis of network data with R (Vol. 65). New York, NY: Springer.&lt;/li&gt;
-&lt;li&gt;Efron, B., &amp;amp; Hastie, T. (2016). &lt;a href=&#34;https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf&#34;&gt;Computer age statistical inference&lt;/a&gt; (Vol. 5). Cambridge University Press.&lt;/li&gt;
-&lt;li&gt;Whittaker, J. (2009). Graphical models in applied multivariate statistics. Wiley Publishing.&lt;/li&gt;
-&lt;li&gt;Douglas, C. M. (2012). &lt;a href=&#34;http://faculty.business.utsa.edu/manderso/STA4723/readings/Douglas-C.-Montgomery-Design-and-Analysis-of-Experiments-Wiley-2012.pdf&#34;&gt;Design and analysis of experiments&lt;/a&gt;. John Wiley &amp;amp; Sons Ltd.&lt;/li&gt;
-&lt;li&gt;Harrer, M., Cuijpers, P., Furukawa, T. A., &amp;amp; Ebert, D. D. (2019). &lt;a href=&#34;https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/&#34;&gt;Doing Meta-Analysis with R: A Hands-On Guide.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;McCulloch, C. E., &amp;amp; Searle, S. R. (2004). Generalized, linear, and mixed models. John Wiley &amp;amp; Sons.&lt;/li&gt;
-&lt;li&gt;Howell, D. C. (2012). Statistical methods for psychology. Cengage Learning.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://canssiontario.utoronto.ca/2023-international-day-of-women-and-girls-in-science/&#34;&gt;2023 CANSSI International day of women and girls in science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mathsci.kaist.ac.kr/home/en/2016/12/trang-thi-bui-was-awarded-for-the-best-undergraduate-thesis-presentation/&#34;&gt;KAIST best undergraduate thesis award&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dtinews.vn/en/news/025/22674/vietnamese-students-win-first-prize-at-international-science-fair.html&#34;&gt;ISEF 2012 First Prize in Mechanical and Electrical Engineering&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;why-deep-learning-is-good&#34;&gt;Why Deep Learning is good?&lt;/h2&gt;
+&lt;h2 id=&#34;books-on-my-shelf&#34;&gt;Books on my shelf&lt;/h2&gt;
+&lt;p&gt;February 17, 2023&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Van der Vaart, A. W. (2000). Asymptotic statistics (Vol. 3). Cambridge University Press.&lt;/li&gt;
+&lt;li&gt;Howell, D. C. (2012). Statistical methods for psychology. Cengage Learning.&lt;/li&gt;
+&lt;li&gt;Douglas, C. M. (2012). Design and analysis of experiments. John Wiley &amp;amp; Sons Ltd.&lt;/li&gt;
+&lt;li&gt;Harrer, M., Cuijpers, P., Furukawa, T. A., &amp;amp; Ebert, D. D. (2019). &lt;a href=&#34;https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/&#34;&gt;Doing Meta-Analysis with R: A Hands-On Guide.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;McCulloch, C. E., &amp;amp; Searle, S. R. (2004). Generalized, linear, and mixed models. John Wiley &amp;amp; Sons.&lt;/li&gt;
+&lt;li&gt;Kolaczyk, E. D., &amp;amp; Csárdi, G. (2014). Statistical analysis of network data with R (Vol. 65). New York, NY: Springer.&lt;/li&gt;
+&lt;li&gt;Whittaker, J. (2009). Graphical models in applied multivariate statistics. Wiley Publishing.&lt;/li&gt;
+&lt;li&gt;Gelman, A., Carlin, J. B., Stern, H. S., &amp;amp; Rubin, D. B. (1995). Bayesian data analysis. Chapman and Hall/CRC.&lt;/li&gt;
+&lt;li&gt;Hernán, M. A., &amp;amp; Robins, J. M. (2010). Causal inference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-is-deep-learning-good&#34;&gt;Why is Deep Learning good?&lt;/h2&gt;
 &lt;p&gt;Dec 03, 2020&lt;/p&gt;
 &lt;p&gt;Thanks to the David Sprott&amp;rsquo;s Distinguished Lecture by Professor Trevor Hastie and questions raised by Professor Ali Ghodsi in the Q&amp;amp;A session today, I realized that several things about Deep Learning. Why they are so good, I think there are three reasons:&lt;/p&gt;
 &lt;ul&gt;
@@ -47,6 +56,17 @@
 &lt;li&gt;A lot of the model takes in knowledge about the data to give a good modeling. For example, the scan in CNN is just like a local kernel, which makes sense to capture the locally-correlated features in an image. Deep Learning also make use of data augmentation, just like we are adding a &amp;ldquo;gaussian cloud&amp;rdquo; to the data in classical modeling. These augmentation has more power because they are usually correct. In CNN, jittering the picture or rotating it we know that it still has the same label, i.e., we are adding in data with labels/response that we know is the true.&lt;/li&gt;
 &lt;li&gt;Deep Learning is online learning. It keeps updating with new data, i.e., we can use pre-train model for a new one. This makes it become very handy in a lot of applications.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://tqtbui.github.io/book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/book/</guid>
+      <description>&lt;h2 id=&#34;academic-books&#34;&gt;Academic books&lt;/h2&gt;
+&lt;h2 id=&#34;other-books&#34;&gt;Other books&lt;/h2&gt;
 </description>
     </item>
     
@@ -119,7 +139,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/research/</guid>
-      <description>&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;General additive network effects model&lt;/em&gt; - with Stefan H. Steiner and Nathaniel T. Stevens, submitted to The New England Journal of Statistics in Data Science.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;In all fairness: A meta-analysis of the tax fairness-tax compliance literature&lt;/em&gt; - with Jonathan Farrar, Mary Marshall, Dawn Massey, Linda Thorne, and Anita Wu, submitted to Behavioral Research in Accounting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Student Seminar Series UWaterloo 2020, &lt;a href=&#34;https://uwaterloo.ca/statistics-and-actuarial-science/events/department-seminar-trang-bui&#34;&gt;Introduction to Experimental Design on Networks&lt;/a&gt;;&lt;/li&gt;
 &lt;li&gt;Virtual ISI World Statistics Congress 2021, IPS69, &lt;a href=&#34;https://www.isi2021.org/events/isi-world-statistics-congress-2021/?date=2021-07-16&#34;&gt;General Linear Network Effects Model for Network Experimentation&lt;/a&gt;.&lt;/li&gt;
@@ -133,7 +158,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/teaching/</guid>
-      <description>&lt;h2 id=&#34;teaching-assistant&#34;&gt;Teaching Assistant&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/afm113&#34;&gt;Analytic Methods for Business 2&lt;/a&gt; Spring 2022&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching-assistant&#34;&gt;Teaching Assistant&lt;/h2&gt;
 &lt;p&gt;During my graduate study at University of Waterloo, I work as a teaching assistant for statistics courses in the department. Below is the list of the courses that I have assisted.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/actsc231&#34;&gt;ACTSC 231 Introductory Financial Mathematics&lt;/a&gt; Spring 2018&lt;/li&gt;
