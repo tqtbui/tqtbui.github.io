@@ -1844,21 +1844,6 @@ nav#navbar-main li.nav-item {
   background-color: transparent !important; /* Override Bootstrap. */
 }
 
-.navbar-light .navbar-nav>li.nav-item>a.active-page,
-.navbar-light .navbar-nav>li.nav-item>a.active-page:focus,
-.navbar-light .navbar-nav>li.nav-item>a.active-page:hover {
-  color: #2962ff;
-  font-weight: 700;
-  background-color: transparent !important; /* Override Bootstrap. */
-}
-
-.dark .navbar-light .navbar-nav>li.nav-item>a.active-page,
-.dark .navbar-light .navbar-nav>li.nav-item>a.active-page:focus,
-.dark .navbar-light .navbar-nav>li.nav-item>a.active-page:hover {
-  color: rgba(255,255,255,1);
-  font-weight: 700;
-  background-color: transparent !important; /* Override Bootstrap. */
-}
 
 .navbar-brand,
 .navbar-nav li.nav-item a.nav-link {
