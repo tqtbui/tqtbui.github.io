@@ -1,17 +1,17 @@
 
 
 
+  
 
+  
 
+  
 
+  
 
+  
 
-
-
-
-
-
-/*************************************************
+  /*************************************************
  *  Hugo Academic: an academic theme for Hugo.
  *  Designed by @GeorgeCushen.
  *  https://github.com/gcushen/hugo-academic
@@ -42,9 +42,10 @@ body {
   margin-top: 70px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
-  visibility: hidden;
-  opacity: 0;
+  /*visibility: hidden;
+  opacity: 0;*/
 }
+
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
   body {
     margin-top: 50px; /* Offset body content by navbar height. */
@@ -132,19 +133,6 @@ h3.article-title a:hover {
 a:hover,
 a:focus {
   color: #2962ff;
-}
-
-.dark a,
-.dark h3.article-title, 
-.dark a:hover {
-  color: hsl(339, 90%, 68%);
-  text-decoration: none;
-  transition: color 0.6s ease;
-}
-
-.dark a:hover,
-.dark a:focus {
-  color: hsl(339, 90%, 68%);
 }
 
 img,
@@ -290,10 +278,6 @@ small,
   z-index: -99;
 }
 
-.dark .search-results {
-  background-color: rgb(40, 42, 54);
-}
-
 .searching {
   overflow: hidden;
 }
@@ -330,10 +314,6 @@ small,
   .search-header {
     top: 50px;  /* Navbar height. */
   }
-}
-
-.dark .search-header {
-  background-color: rgb(40, 42, 54);
 }
 
 .search-header h1 {
@@ -491,10 +471,6 @@ a[data-fancybox] img {
   text-transform: uppercase;
 }
 
-.dark .post-nav-item a {
-  color: #ddd;
-}
-
 /*************************************************
  *  Home Sections
  **************************************************/
@@ -515,42 +491,6 @@ a[data-fancybox] img {
   animation-delay: 0.15s;
 }
 
-.dark .home-section {
-  background-color: hsla(231, 15%, 18%, 1);
-  padding: 110px 0 110px 0;
-  animation: intro 0.3s both;
-  animation-delay: 0.15s;
-}
-
-/* Override dark colors that may be inherited from body.dark */
-.home-section.dark,
-.home-section.dark h1,
-.home-section.dark h2,
-.home-section.dark h3,
-.home-section.dark a:not(.btn):not(.alert a) {
-  color: rgb(248, 248, 242);
-}
-
-/* Underline links in dark sections to separate them from text */
-.home-section.dark a:not(.btn):not(.hero-cta-alt):not(.alert a) {
-  text-decoration: underline;
-}
-
-/* Big underline style for links in dark sections */
-.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a) {
-  text-decoration: none;
-  position: relative;
-}
-.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a):after {
-  background: #fff;
-  content: "";
-  height: 2px;
-  left: 0;
-  right: 0;
-  position: absolute;
-  top: 100%;
-}
-
 /* Create the parallax scrolling effect */
 .parallax {
   height: 100%;
@@ -566,10 +506,6 @@ a[data-fancybox] img {
 
 .home-section:nth-of-type(even) {
   background-color: rgb(247, 247, 247);
-}
-
-.dark .home-section:nth-of-type(even) {
-  background-color: hsla(231, 15%, 16%, 1);
 }
 
 @media screen and (max-width: 768px) {
@@ -698,11 +634,6 @@ a.hero-cta-alt:hover {
   margin-bottom: 5px;
   font-weight: 400;
   color: #333;
-}
-
-.dark .featurette,
-.dark .featurette h3 {
-  color: #fff;
 }
 
 .featurette-icon {
@@ -871,10 +802,6 @@ ul.share li i {
   color: #fff;
 }
 
-.dark ul.share li i {
-  color: rgb(68, 71, 90);
-}
-
 ul.share li a {
   background-color: #b5c6ce;
   display: block;
@@ -914,10 +841,6 @@ article {
   font-size: 1.15rem;
   color: rgba(0,0,0,.54);
   margin-bottom: 1rem;
-}
-
-.dark .page-subtitle {
-  color: rgba(255,255,255,0.54);
 }
 
 .split-header .page-subtitle {
@@ -1013,20 +936,12 @@ article {
   color: rgba(0,0,0,0.54); /* Override Bootstrap */
 }
 
-.dark .text-muted {
-  color: rgba(255,255,255,0.54);
-}
-
 .article-metadata {
   margin-bottom: 15px;
   overflow: hidden;
   font-size: 14px;
   letter-spacing: 0.03em;
   color: rgba(0,0,0,0.54);
-}
-
-.dark .article-metadata {
-  color: rgba(255,255,255,0.54);
 }
 
 .stream-meta.article-metadata {
@@ -1041,10 +956,6 @@ article .article-metadata {
 
 .article-metadata a {
   color: rgba(0,0,0,.54);
-}
-
-.dark .article-metadata a {
-  color: rgba(255,255,255,0.54);
 }
 
 .article-metadata a:hover {
@@ -1149,10 +1060,6 @@ article .article-metadata {
   border-top: 1px solid rgba(0,0,0,.05);
 }
 
-.dark .author-card {
-  border-top: 1px solid rgba(255,255,255,.05);
-}
-
 .author-card .portrait {
   width: 60px;
   height: 60px;
@@ -1172,11 +1079,6 @@ article .article-metadata {
   color: rgba(0, 0, 0, 0.84);
 }
 
-.dark .author-card .card-title,
-.dark .author-card .card-title a {
-  color: rgba(255, 255, 255, 0.84);
-}
-
 .author-card p {
   margin-bottom: 5px;
 }
@@ -1188,18 +1090,10 @@ article .article-metadata {
   margin-bottom: 7px;
 }
 
-.dark .author-card .card-subtitle {
-  color: rgba(255, 255, 255, 0.54);
-}
-
 .author-card .card-text {
   color: rgba(0, 0, 0, 0.76);
   font-size: 0.8rem;
   margin-bottom: 4px;
-}
-
-.dark .author-card .card-text {
-  color: rgba(255, 255, 255, 0.76);
 }
 
 /*************************************************
@@ -1258,10 +1152,6 @@ article .article-metadata {
   color: inherit;
 }
 
-.dark .li-cite-author a {
-  color: rgb(248, 248, 242);
-}
-
 /*************************************************
  * Experience
  **************************************************/
@@ -1283,15 +1173,6 @@ article .article-metadata {
 .experience .card-text p {
   color: #000 !important;
   font-size: 0.75rem !important;
-}
-
-.dark .experience .text-muted {
-  color: rgba(255, 255, 255, 0.8) !important;
-}
-
-.dark .experience .card-text,
-.dark .experience .card-text p {
-  color: rgb(248, 248, 242) !important;
 }
 
 .card .card-text ul {
@@ -1434,12 +1315,6 @@ article .article-metadata {
   margin: 0;
 }
 
-.dark .card-simple {
-  background: rgb(40, 42, 54);
-  box-shadow: 0 1px 4px rgba(0,0,0,.04);
-  border: 1px solid rgb(68, 71, 90);
-}
-
 .card {
   margin-bottom: 1.5rem;
   overflow: hidden;
@@ -1480,10 +1355,6 @@ article .article-metadata {
 .card .card-text p {
   color: rgba(0,0,0,0.54);
   font-size: 0.75rem;
-}
-
-.dark .card-text p {
-  color: rgb(248, 248, 242);
 }
 
 .card p:last-child {
@@ -1582,12 +1453,6 @@ footer a#back_to_top i {
   color: rgba(0,0,0,0.54);
 }
 
-.dark .site-footer,
-.dark footer a#back_to_top i,
-.dark .docs .body-footer {
-  color: rgba(255,255,255,0.54);
-}
-
 /**************************************************
  *  Tags/Labels
  **************************************************/
@@ -1632,12 +1497,6 @@ a.badge:hover {
 .tag-cloud a:hover {
   color: #0039cb;
   transform: scale(1.2);
-}
-
-.dark .tag-cloud a:active,
-.dark .tag-cloud a:focus,
-.dark .tag-cloud a:hover {
-  color: #768fff;
 }
 
 /*************************************************
@@ -1698,20 +1557,10 @@ a.badge:hover {
   border-color: #2962ff;
 }
 
-.dark .btn-outline-primary:not(:disabled):not(.disabled).active,
-.dark .btn-outline-primary:not(:disabled):not(.disabled):active,
-.dark .show > .btn-outline-primary.dropdown-toggle {
-  color: rgb(68, 71, 90);
-}
-
 .btn-outline-primary:hover {
   color: #fff;
   background-color: #2962ff;
   border-color: #2962ff;
-}
-
-.dark .btn-outline-primary:hover {
-  color: rgb(68, 71, 90);
 }
 
 /*************************************************
@@ -1761,21 +1610,12 @@ a.badge:hover {
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
-.dark .navbar-light {
-  background: rgb(20, 22, 34) !important;
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
-}
-
 .navbar-light .navbar-toggler {
   border-color: transparent;
 }
 
 .navbar-toggler {
   color: #34495e !important;
-}
-
-.dark .navbar-toggler {
-  color: rgba(255,255,255,0.6) !important;
 }
 
 .navbar-light .navbar-toggler:focus,
@@ -1798,16 +1638,6 @@ nav#navbar-main li.nav-item {
   font-weight: 600;
 }
 
-.dark .navbar-light .navbar-nav>.nav-item>.nav-link,
-.dark .navbar-light .navbar-nav>.nav-item>.nav-link:focus,
-.dark .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  white-space: nowrap;
-  -webkit-transition: 0.2s ease;
-  transition: 0.2s ease;
-  color: rgba(255,255,255,0.6);
-  font-weight: 600;
-}
-
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
   color: #2962ff;
   background-color: transparent;
@@ -1818,16 +1648,6 @@ nav#navbar-main li.nav-item {
   background-color: transparent;
 }
 
-.dark .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
-  color: rgba(255,255,255,1);
-  background-color: transparent;
-}
-
-.dark .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: rgba(255,255,255,1);
-  background-color: transparent;
-}
-
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
@@ -1835,15 +1655,6 @@ nav#navbar-main li.nav-item {
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
-
-.dark .navbar-light .navbar-nav>li.nav-item>a.active,
-.dark .navbar-light .navbar-nav>li.nav-item>a.active:focus,
-.dark .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-  color: rgba(255,255,255,1);
-  font-weight: 700;
-  background-color: transparent !important; /* Override Bootstrap. */
-}
-
 
 .navbar-brand,
 .navbar-nav li.nav-item a.nav-link {
@@ -1865,14 +1676,6 @@ nav#navbar-main li.nav-item {
   background-color: #fff !important;
 }
 
-.dark .navbar-light .navbar-toggler .icon-bar {
-  background-color: rgba(255,255,255,0.6) !important;
-}
-
-.dark .dropdown-menu {
-  background-color: rgb(20, 22, 34) !important;
-}
-
 .dropdown-menu > li > a {
   display: block;
   padding: 3px 20px;
@@ -1883,28 +1686,11 @@ nav#navbar-main li.nav-item {
   white-space: nowrap;
 }
 
-.dark .dropdown-menu > li > a {
-  display: block;
-  padding: 3px 20px;
-  clear: both;
-  font-weight: 400;
-  line-height: 1.42857143;
-  color: rgba(255,255,255,0.6);
-  white-space: nowrap;
-}
-
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
   color: #2962ff;
   text-decoration: none;
   background-color: #fff;
-}
-
-.dark .dropdown-menu>li>a:focus,
-.dark .dropdown-menu>li>a:hover {
-  color: rgba(255,255,255,1);
-  text-decoration: none;
-  background-color: rgb(20, 22, 34);
 }
 
 .dropdown-menu > .active,
@@ -1916,15 +1702,6 @@ nav#navbar-main li.nav-item {
   outline: 0;
 }
 
-.dark .dropdown-menu > .active,
-.dark .dropdown-menu > .active:focus,
-.dark .dropdown-menu > .active:hover {
-  color: rgb(20, 22, 34);
-  text-decoration: none;
-  background-color: rgba(255,255,255,1);
-  outline: 0;
-}
-
 .navbar-light .navbar-nav>.open>a,
 .navbar-light .navbar-nav>.open>a:focus,
 .navbar-light .navbar-nav>.open>a:hover,
@@ -1933,35 +1710,15 @@ nav#navbar-main li.nav-item {
   background-color: #fff !important;
 }
 
-.dark .navbar-light .navbar-nav>.open>a,
-.dark .navbar-light .navbar-nav>.open>a:focus,
-.dark .navbar-light .navbar-nav>.open>a:hover,
-.dark .navbar-light .navbar-nav>.open>a:visited {
-  color: rgba(255,255,255,0.6) !important;
-  background-color: rgb(20, 22, 34) !important;
-}
-
 .navbar-light .navbar-brand {
   font-weight: bold;
   font-size: 1.2em;
   color: #2b2b2b;
 }
 
-.dark .navbar-light .navbar-brand {
-  font-weight: bold;
-  font-size: 1.2em;
-  color: #fff;
-}
-
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
   color: #2b2b2b;
-  background-color: transparent;
-}
-
-.dark .navbar-light .navbar-brand:focus,
-.dark .navbar-light .navbar-brand:hover {
-  color: #fff;
   background-color: transparent;
 }
 
@@ -2007,16 +1764,6 @@ nav#navbar-main li.nav-item {
     white-space: nowrap;
   }
 
-  .dark .dropdown-menu > li > a {
-    display: block;
-    padding: 3px 20px;
-    clear: both;
-    font-weight: 400;
-    line-height: 1.42857143;
-    color: rgba(255,255,255,0.6);
-    white-space: nowrap;
-  }
-
   .navbar-light .navbar-nav .open .dropdown-menu {
     position: static;
     width: auto;
@@ -2032,12 +1779,6 @@ nav#navbar-main li.nav-item {
     color: #34495e;
   }
 
-  .dark .navbar-light .navbar-nav .open .dropdown-menu > li > a {
-    padding: 5px 15px 5px 25px;
-    line-height: 20px;
-    color: rgba(255,255,255,0.6);
-  }
-
   .navbar-light .navbar-nav .open .dropdown-menu > li > a:focus,
   .navbar-light .navbar-nav .open .dropdown-menu > li > a:hover {
     color: inherit;
@@ -2047,13 +1788,6 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
-    color: #2962ff;
-    background-color: transparent;
-  }
-
-  .dark .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active,
-  .adrk .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
-  .dark .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
     color: #2962ff;
     background-color: transparent;
   }
@@ -2439,7 +2173,7 @@ ul.toc-top {
  *  Dark themed components
  **************************************************/
 
-body.dark,
+/*body.dark,
 .dark .docs-toc-link,
 .dark .docs-sidebar .nav > li:not(.active) > a,
 .dark .modal button.close,
@@ -2494,21 +2228,21 @@ body.dark,
 
 .dark table table {
   background-color: rgb(40, 42, 54);
-}
+}*/
 
 /* Table Striped */
-.dark table > tbody > tr:nth-child(odd) > td,
+/*.dark table > tbody > tr:nth-child(odd) > td,
 .dark table > tbody > tr:nth-child(odd) > th {
   background-color: rgb(50, 52, 64);
-}
+}*/
 
 /* Table Hover */
-.dark table > tbody > tr:hover > td,
+/*.dark table > tbody > tr:hover > td,
 .dark table > tbody > tr:hover > th {
   background-color: rgb(60, 62, 74);
-}
+}*/
 
-.dark .article-title a {
+/*.dark .article-title a {
   color: #fff;
 }
 
@@ -2562,10 +2296,10 @@ body.dark,
 .dark select {
   background: rgb(40, 42, 54);
   color: rgb(248, 248, 242);
-}
+}*/
 
 /* Algolia search input */
-.dark .ais-search-box--input {
+/*.dark .ais-search-box--input {
   background-color: rgb(68, 71, 90);
 }
 
@@ -2592,3 +2326,272 @@ body.dark,
 .dark .btn.btn-primary.active {
   color: initial;
 }
+
+.dark a,
+.dark h3.article-title, 
+.dark a:hover {
+  color: <no value>;
+  text-decoration: none;
+  transition: color 0.6s ease;
+}
+
+.dark a:hover,
+.dark a:focus {
+  color: <no value>;
+}
+
+.dark .search-results {
+  background-color: rgb(40, 42, 54);
+}
+
+.dark .search-header {
+  background-color: rgb(40, 42, 54);
+}
+
+.dark .post-nav-item a {
+  color: #ddd;
+}
+
+.dark .home-section {
+  background-color: hsla(231, 15%, 18%, 1);
+  padding: 110px 0 110px 0;
+  animation: intro 0.3s both;
+  animation-delay: 0.15s;
+}*/
+
+/* Override dark colors that may be inherited from body.dark */
+/*.home-section.dark,
+.home-section.dark h1,
+.home-section.dark h2,
+.home-section.dark h3,
+.home-section.dark a:not(.btn):not(.alert a) {
+  color: rgb(248, 248, 242);
+}*/
+
+/* Underline links in dark sections to separate them from text */
+/*.home-section.dark a:not(.btn):not(.hero-cta-alt):not(.alert a) {
+  text-decoration: underline;
+}*/
+
+/* Big underline style for links in dark sections */
+/*.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a) {
+  text-decoration: none;
+  position: relative;
+}
+
+.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a):after {
+  background: #fff;
+  content: "";
+  height: 2px;
+  left: 0;
+  right: 0;
+  position: absolute;
+  top: 100%;
+}
+
+.dark .home-section:nth-of-type(even) {
+  background-color: hsla(231, 15%, 16%, 1);
+}
+
+.dark .featurette,
+.dark .featurette h3 {
+  color: #fff;
+}
+
+.dark ul.share li i {
+  color: rgb(68, 71, 90);
+}
+
+.dark .page-subtitle {
+  color: rgba(255,255,255,0.54);
+}
+
+.dark .text-muted {
+  color: rgba(255,255,255,0.54);
+}
+
+.dark .article-metadata {
+  color: rgba(255,255,255,0.54);
+}
+
+.dark .article-metadata a {
+  color: rgba(255,255,255,0.54);
+}
+
+.dark .author-card {
+  border-top: 1px solid rgba(255,255,255,.05);
+}
+
+.dark .author-card .card-title,
+.dark .author-card .card-title a {
+  color: rgba(255, 255, 255, 0.84);
+}
+
+.dark .author-card .card-subtitle {
+  color: rgba(255, 255, 255, 0.54);
+}
+
+.dark .author-card .card-text {
+  color: rgba(255, 255, 255, 0.76);
+}
+
+.dark .li-cite-author a {
+  color: rgb(248, 248, 242);
+}
+
+.dark .experience .text-muted {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.dark .experience .card-text,
+.dark .experience .card-text p {
+  color: rgb(248, 248, 242) !important;
+}
+
+.dark .card-simple {
+  background: rgb(40, 42, 54);
+  box-shadow: 0 1px 4px rgba(0,0,0,.04);
+  border: 1px solid rgb(68, 71, 90);
+}
+
+.dark .card-text p {
+  color: rgb(248, 248, 242);
+}
+
+.dark .site-footer,
+.dark footer a#back_to_top i,
+.dark .docs .body-footer {
+  color: rgba(255,255,255,0.54);
+}
+
+.dark .tag-cloud a:active,
+.dark .tag-cloud a:focus,
+.dark .tag-cloud a:hover {
+  color: #768fff;
+}
+
+.dark .btn-outline-primary:not(:disabled):not(.disabled).active,
+.dark .btn-outline-primary:not(:disabled):not(.disabled):active,
+.dark .show > .btn-outline-primary.dropdown-toggle {
+  color: rgb(68, 71, 90);
+}
+
+.dark .btn-outline-primary:hover {
+  color: rgb(68, 71, 90);
+}
+
+.dark .navbar-light {
+  background: <no value> !important;
+  box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
+}
+
+.dark .navbar-toggler {
+  color: <no value> !important;
+}
+
+.dark .navbar-light .navbar-nav>.nav-item>.nav-link,
+.dark .navbar-light .navbar-nav>.nav-item>.nav-link:focus,
+.dark .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
+  white-space: nowrap;
+  -webkit-transition: 0.2s ease;
+  transition: 0.2s ease;
+  color: <no value>;
+  font-weight: 600;
+}
+
+.dark .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
+  color: <no value>;
+  background-color: transparent;
+}
+
+.dark .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
+  color: <no value>;
+  background-color: transparent;
+}
+
+.dark .navbar-light .navbar-nav>li.nav-item>a.active,
+.dark .navbar-light .navbar-nav>li.nav-item>a.active:focus,
+.dark .navbar-light .navbar-nav>li.nav-item>a.active:hover {
+  color: <no value>;
+  font-weight: 700;
+  background-color: transparent !important; 
+
+
+.dark .navbar-light .navbar-toggler .icon-bar {
+  background-color: <no value> !important;
+}
+
+.dark .dropdown-menu {
+  background-color: <no value> !important;
+}
+
+.dark .dropdown-menu > li > a {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: 400;
+  line-height: 1.42857143;
+  color: <no value>;
+  white-space: nowrap;
+}
+
+.dark .dropdown-menu>li>a:focus,
+.dark .dropdown-menu>li>a:hover {
+  color: <no value>;
+  text-decoration: none;
+  background-color: <no value>;
+}
+
+.dark .dropdown-menu > .active,
+.dark .dropdown-menu > .active:focus,
+.dark .dropdown-menu > .active:hover {
+  color: <no value>;
+  text-decoration: none;
+  background-color: <no value>;
+  outline: 0;
+}
+
+.dark .navbar-light .navbar-nav>.open>a,
+.dark .navbar-light .navbar-nav>.open>a:focus,
+.dark .navbar-light .navbar-nav>.open>a:hover,
+.dark .navbar-light .navbar-nav>.open>a:visited {
+  color: <no value> !important;
+  background-color: <no value> !important;
+}
+
+.dark .navbar-light .navbar-brand {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: <no value>;
+}
+
+.dark .navbar-light .navbar-brand:focus,
+.dark .navbar-light .navbar-brand:hover {
+  color: <no value>;
+  background-color: transparent;
+}
+
+@media screen and (max-width: 1200px) {
+  .dark .dropdown-menu > li > a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: <no value>;
+    white-space: nowrap;
+  }
+
+  .dark .navbar-light .navbar-nav .open .dropdown-menu > li > a {
+    padding: 5px 15px 5px 25px;
+    line-height: 20px;
+    color: <no value>;
+  }
+
+  .dark .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active,
+  .adrk .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
+  .dark .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
+    color: #2962ff;
+    background-color: transparent;
+  }
+}*/
