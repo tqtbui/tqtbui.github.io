@@ -1,182 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trang Bui on Trang Bui</title>
+    <title>Trang Bui</title>
     <link>https://tqtbui.github.io/</link>
-    <description>Recent content in Trang Bui on Trang Bui</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <description>Recent content on Trang Bui</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Trang Bui</copyright>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://tqtbui.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Featuring</title>
+      <link>https://tqtbui.github.io/miscs/featuring/</link>
+      <pubDate>Sun, 17 Feb 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://tqtbui.github.io/miscs/featuring/</guid>
+      <description>Some articles featuring me.
+ 2023 CANSSI International day of women and girls in science KAIST best undergraduate thesis award ISEF 2012 First Prize in Mechanical and Electrical Engineering  </description>
+    </item>
     
     <item>
-      <title>Authors</title>
-      <link>https://tqtbui.github.io/author/</link>
+      <title>Courses</title>
+      <link>https://tqtbui.github.io/teaching/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tqtbui.github.io/author/</guid>
+      <guid>https://tqtbui.github.io/teaching/courses/</guid>
+      <description> Analytic Methods for Business 2 Spring 2022  </description>
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>https://tqtbui.github.io/research/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/research/papers/</guid>
+      <description> General additive network effects model - with Stefan H. Steiner and Nathaniel T. Stevens, submitted to The New England Journal of Statistics in Data Science. In all fairness: A meta-analysis of the tax fairness-tax compliance literature - with Jonathan Farrar, Mary Marshall, Dawn Massey, Linda Thorne, and Anita Wu, submitted to Behavioral Research in Accounting.  </description>
+    </item>
+    
+    <item>
+      <title>Seclected packages</title>
+      <link>https://tqtbui.github.io/projects/r/r-pub-package/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/projects/r/r-pub-package/</guid>
+      <description>These are the R packages that I developed for my research and publications.</description>
+    </item>
+    
+    <item>
+      <title>Statistical books</title>
+      <link>https://tqtbui.github.io/book/statistical-books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/book/statistical-books/</guid>
+      <description> Topics in Statistical Consulting - coauthor and editor together with SCCRU at University of Waterloo.  </description>
+    </item>
+    
+    <item>
+      <title>Books on my shelf</title>
+      <link>https://tqtbui.github.io/book/books-on-shelf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/book/books-on-shelf/</guid>
+      <description>Van der Vaart, A. W. (2000). Asymptotic statistics (Vol. 3). Cambridge University Press. Howell, D. C. (2012). Statistical methods for psychology. Cengage Learning. Douglas, C. M. (2012). Design and analysis of experiments. John Wiley &amp;amp; Sons Ltd. Harrer, M., Cuijpers, P., Furukawa, T. A., &amp;amp; Ebert, D. D. (2019). Doing Meta-Analysis with R: A Hands-On Guide. McCulloch, C. E., &amp;amp; Searle, S. R. (2004). Generalized, linear, and mixed models. John Wiley &amp;amp; Sons.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://tqtbui.github.io/research/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/research/talks/</guid>
+      <description> Student Seminar Series UWaterloo 2020, Introduction to Experimental Design on Networks; Virtual ISI World Statistics Congress 2021, IPS69, General Linear Network Effects Model for Network Experimentation.  </description>
+    </item>
+    
+    <item>
+      <title>Tutorial-type packages</title>
+      <link>https://tqtbui.github.io/projects/r/r-tutorial-package/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/projects/r/r-tutorial-package/</guid>
+      <description>Below are the R packages that I developed for the sole purpose of studying, hence will not be maintained. The codes are well-commented to aid understanding algorithms step-by-step. Can be used for teaching or self-studying.
+  varngc: Penalized regressions on Vector Autoregressive models. The loss functions used include penalized least square and penalized log-likelihood. The penalty include lasso and group lasso. This package is parallelizable.
+  t.regression: Contains regression models from UWaterloo&amp;rsquo;s STAT844 course instructed by Professor Liang Kun, following the notes of Professor Wayne Oldford.</description>
+    </item>
+    
+    <item>
+      <title>Why is Deep Learning good?</title>
+      <link>https://tqtbui.github.io/miscs/blogs/why-dl/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://tqtbui.github.io/miscs/blogs/why-dl/</guid>
+      <description>Thanks to the David Sprott&amp;rsquo;s Distinguished Lecture by Professor Trevor Hastie and questions raised by Professor Ali Ghodsi in the Q&amp;amp;A session today, I realized that several things about Deep Learning. Why they are so good, I think there are three reasons:
+ For me, Deep Learning is just like a stack of linear models, so it is one way of ensemble models together with a certain structure, maybe hierarchical. Hence, the Deep Learning models usually contain more parameters than the classical models, which may explain why it can have better performance with bigger data.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tqtbui.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/home/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Blog</title>
-      <link>https://tqtbui.github.io/blog/</link>
+      <title>Teaching Assistant</title>
+      <link>https://tqtbui.github.io/teaching/ta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tqtbui.github.io/blog/</guid>
-      <description>&lt;hr&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
-&lt;p&gt;February 18, 2023&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://canssiontario.utoronto.ca/2023-international-day-of-women-and-girls-in-science/&#34;&gt;2023 CANSSI International day of women and girls in science&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mathsci.kaist.ac.kr/home/en/2016/12/trang-thi-bui-was-awarded-for-the-best-undergraduate-thesis-presentation/&#34;&gt;KAIST best undergraduate thesis award&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://dtinews.vn/en/news/025/22674/vietnamese-students-win-first-prize-at-international-science-fair.html&#34;&gt;ISEF 2012 First Prize in Mechanical and Electrical Engineering&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;why-is-deep-learning-good&#34;&gt;Why is Deep Learning good?&lt;/h2&gt;
-&lt;p&gt;Dec 03, 2020&lt;/p&gt;
-&lt;p&gt;Thanks to the David Sprott&amp;rsquo;s Distinguished Lecture by Professor Trevor Hastie and questions raised by Professor Ali Ghodsi in the Q&amp;amp;A session today, I realized that several things about Deep Learning. Why they are so good, I think there are three reasons:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;For me, Deep Learning is just like a stack of linear models, so it is one way of ensemble models together with a certain structure, maybe hierarchical. Hence, the Deep Learning models usually contain more parameters than the classical models, which may explain why it can have better performance with bigger data. The data has been summarized by more parameters.&lt;/li&gt;
-&lt;li&gt;A lot of the model takes in knowledge about the data to give a good modeling. For example, the scan in CNN is just like a local kernel, which makes sense to capture the locally-correlated features in an image. Deep Learning also make use of data augmentation, just like we are adding a &amp;ldquo;gaussian cloud&amp;rdquo; to the data in classical modeling. These augmentation has more power because they are usually correct. In CNN, jittering the picture or rotating it we know that it still has the same label, i.e., we are adding in data with labels/response that we know is the true.&lt;/li&gt;
-&lt;li&gt;Deep Learning is online learning. It keeps updating with new data, i.e., we can use pre-train model for a new one. This makes it become very handy in a lot of applications.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>https://tqtbui.github.io/book/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tqtbui.github.io/book/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;statistical-books&#34;&gt;Statistical books&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://mlysy.github.io/sccru/index.html&#34;&gt;Topics in Statistical Consulting&lt;/a&gt; - coauthor and editor together with &lt;a href=&#34;https://uwaterloo.ca/statistical-consulting-and-collaborative-research-unit/&#34;&gt;SCCRU&lt;/a&gt; at University of Waterloo.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;books-on-my-shelf&#34;&gt;Books on my shelf&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Van der Vaart, A. W. (2000). Asymptotic statistics (Vol. 3). Cambridge University Press.&lt;/li&gt;
-&lt;li&gt;Howell, D. C. (2012). Statistical methods for psychology. Cengage Learning.&lt;/li&gt;
-&lt;li&gt;Douglas, C. M. (2012). Design and analysis of experiments. John Wiley &amp;amp; Sons Ltd.&lt;/li&gt;
-&lt;li&gt;Harrer, M., Cuijpers, P., Furukawa, T. A., &amp;amp; Ebert, D. D. (2019). &lt;a href=&#34;https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/&#34;&gt;Doing Meta-Analysis with R: A Hands-On Guide.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;McCulloch, C. E., &amp;amp; Searle, S. R. (2004). Generalized, linear, and mixed models. John Wiley &amp;amp; Sons.&lt;/li&gt;
-&lt;li&gt;Kolaczyk, E. D., &amp;amp; Csárdi, G. (2014). Statistical analysis of network data with R (Vol. 65). New York, NY: Springer.&lt;/li&gt;
-&lt;li&gt;Whittaker, J. (2009). Graphical models in applied multivariate statistics. Wiley Publishing.&lt;/li&gt;
-&lt;li&gt;Gelman, A., Carlin, J. B., Stern, H. S., &amp;amp; Rubin, D. B. (1995). Bayesian data analysis. Chapman and Hall/CRC.&lt;/li&gt;
-&lt;li&gt;Hernán, M. A., &amp;amp; Robins, J. M. (2010). Causal inference.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bui, Thi Quynh Trang</title>
-      <link>https://tqtbui.github.io/cv_academic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tqtbui.github.io/cv_academic/</guid>
-      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;PhD in Statistics, University of Waterloo, 2018-2022 (Expected)&lt;/li&gt;
-&lt;li&gt;Master in Statistics, University of Waterloo, 2017-2018&lt;/li&gt;
-&lt;li&gt;BSc in Mathematical Sciences and Business Management, KAIST, 2013-2017&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
-&lt;h2 id=&#34;honors-and-awards&#34;&gt;Honors and Awards&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Stat &amp;amp; ActSci Chair&amp;rsquo;s Award (University of Waterloo, 2017-now)&lt;/li&gt;
-&lt;li&gt;International Masters/Doctoral Award (University of Waterloo, 2017-now)&lt;/li&gt;
-&lt;li&gt;Stat &amp;amp; ActSci Doctoral Entrance Award (University of Waterloo, 2018)&lt;/li&gt;
-&lt;li&gt;Doctoral Entrance Award for Women (University of Waterloo, 2018)&lt;/li&gt;
-&lt;li&gt;Best Undergraduate Thesis in Department of Mathematical Sciences (2016, KAIST)&lt;/li&gt;
-&lt;li&gt;KAIST Undergraduate Full Scholarship (KAIST, 2013-2017)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;coursework&#34;&gt;Coursework&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Theoretical Statistics:&lt;/li&gt;
-&lt;li&gt;Statistical Learning:&lt;/li&gt;
-&lt;li&gt;Financial Mathematics:&lt;/li&gt;
-&lt;li&gt;Computational Statistics:&lt;/li&gt;
-&lt;li&gt;Pure Mathematics:&lt;/li&gt;
-&lt;li&gt;Econometrics:&lt;/li&gt;
-&lt;li&gt;Business Management:&lt;/li&gt;
-&lt;li&gt;Human &amp;amp; Social Sciences&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;teaching-assistantships&#34;&gt;Teaching Assistantships:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Mathematical Statistics&lt;/li&gt;
-&lt;li&gt;Probability&lt;/li&gt;
-&lt;li&gt;Computational Statistics and Data Analysis&lt;/li&gt;
-&lt;li&gt;Linear models and process for Business&lt;/li&gt;
-&lt;li&gt;Introduction to Financial Mathematics&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://tqtbui.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tqtbui.github.io/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://tqtbui.github.io/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tqtbui.github.io/research/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;General additive network effects model&lt;/em&gt; - with Stefan H. Steiner and Nathaniel T. Stevens, submitted to The New England Journal of Statistics in Data Science.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;In all fairness: A meta-analysis of the tax fairness-tax compliance literature&lt;/em&gt; - with Jonathan Farrar, Mary Marshall, Dawn Massey, Linda Thorne, and Anita Wu, submitted to Behavioral Research in Accounting.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Student Seminar Series UWaterloo 2020, &lt;a href=&#34;https://uwaterloo.ca/statistics-and-actuarial-science/events/department-seminar-trang-bui&#34;&gt;Introduction to Experimental Design on Networks&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;Virtual ISI World Statistics Congress 2021, IPS69, &lt;a href=&#34;https://www.isi2021.org/events/isi-world-statistics-congress-2021/?date=2021-07-16&#34;&gt;General Linear Network Effects Model for Network Experimentation&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://tqtbui.github.io/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tqtbui.github.io/teaching/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/afm113&#34;&gt;Analytic Methods for Business 2&lt;/a&gt; Spring 2022&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;teaching-assistant&#34;&gt;Teaching Assistant&lt;/h2&gt;
-&lt;p&gt;During my graduate study at University of Waterloo, I work as a teaching assistant for statistics courses in the department. Below is the list of the courses that I have assisted.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/actsc231&#34;&gt;ACTSC 231 Introductory Financial Mathematics&lt;/a&gt; Spring 2018&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/stat202&#34;&gt;STAT 202 Introductory Statistics for Scientists&lt;/a&gt; Fall 2017&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/stat211&#34;&gt;STAT 211 Introductory Statistics and Sampling for Accounting&lt;/a&gt; Winter 2019&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/stat230&#34;&gt;STAT 230 Probability&lt;/a&gt; Fall 2018, Winter 2018&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/stat316&#34;&gt;STAT 316 Introduction to Statistical Problem Solving by Computer&lt;/a&gt; Winter 2019&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/stat330&#34;&gt;STAT 330 Mathematical Statistics&lt;/a&gt; Fall 2018, Fall 2017&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/stat441&#34;&gt;STAT 331 Applied Linear Models&lt;/a&gt; Spring 2020&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/stat340&#34;&gt;STAT 340 Computer Simulation of Complex Systems&lt;/a&gt; Winter 2018&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/stat341&#34;&gt;STAT 341 Computational Statistics and Data Analysis&lt;/a&gt; Fall 2019&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/stat371&#34;&gt;STAT 371 Applied Linear Models and Process Improvement for Business&lt;/a&gt; Head TA Spring 2018&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://uwflow.com/course/stat441&#34;&gt;STAT441/881 Statistical Learning - Classification&lt;/a&gt; Head TA Fall 2020, Fall 2019&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://tqtbui.github.io/teaching/ta/</guid>
+      <description>During my graduate study at University of Waterloo, I work as a teaching assistant for statistics courses in the department. Below is the list of the courses that I have assisted.
+ ACTSC 231 Introductory Financial Mathematics Spring 2018 STAT 202 Introductory Statistics for Scientists Fall 2017 STAT 211 Introductory Statistics and Sampling for Accounting Winter 2019 STAT 230 Probability Fall 2018, Winter 2018 STAT 316 Introduction to Statistical Problem Solving by Computer Winter 2019 STAT 330 Mathematical Statistics Fall 2018, Fall 2017 STAT 331 Applied Linear Models Spring 2020 STAT 340 Computer Simulation of Complex Systems Winter 2018 STAT 341 Computational Statistics and Data Analysis Fall 2019 STAT 371 Applied Linear Models and Process Improvement for Business Head TA Spring 2018 STAT441/881 Statistical Learning - Classification Head TA Fall 2020, Fall 2019  </description>
     </item>
     
   </channel>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscs on Trang Bui</title>
+    <link>https://tqtbui.github.io/miscs/</link>
+    <description>Recent content in Miscs on Trang Bui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Trang Bui</copyright>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://tqtbui.github.io/miscs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Featuring</title>
+      <link>https://tqtbui.github.io/miscs/featuring/</link>
+      <pubDate>Sun, 17 Feb 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://tqtbui.github.io/miscs/featuring/</guid>
+      <description>Some articles featuring me.
+ 2023 CANSSI International day of women and girls in science KAIST best undergraduate thesis award ISEF 2012 First Prize in Mechanical and Electrical Engineering  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Trang Bui</title>
+    <link>https://tqtbui.github.io/miscs/blogs/</link>
+    <description>Recent content in Blogs on Trang Bui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Trang Bui</copyright>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://tqtbui.github.io/miscs/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why is Deep Learning good?</title>
+      <link>https://tqtbui.github.io/miscs/blogs/why-dl/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://tqtbui.github.io/miscs/blogs/why-dl/</guid>
+      <description>Thanks to the David Sprott&amp;rsquo;s Distinguished Lecture by Professor Trevor Hastie and questions raised by Professor Ali Ghodsi in the Q&amp;amp;A session today, I realized that several things about Deep Learning. Why they are so good, I think there are three reasons:
+ For me, Deep Learning is just like a stack of linear models, so it is one way of ensemble models together with a certain structure, maybe hierarchical. Hence, the Deep Learning models usually contain more parameters than the classical models, which may explain why it can have better performance with bigger data.</description>
+    </item>
+    
+  </channel>
+</rss>

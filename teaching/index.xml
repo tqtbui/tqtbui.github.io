@@ -7,5 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Trang Bui</copyright><atom:link href="https://tqtbui.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Courses</title>
+      <link>https://tqtbui.github.io/teaching/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/teaching/courses/</guid>
+      <description> Analytic Methods for Business 2 Spring 2022  </description>
+    </item>
+    
+    <item>
+      <title>Teaching Assistant</title>
+      <link>https://tqtbui.github.io/teaching/ta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/teaching/ta/</guid>
+      <description>During my graduate study at University of Waterloo, I work as a teaching assistant for statistics courses in the department. Below is the list of the courses that I have assisted.
+ ACTSC 231 Introductory Financial Mathematics Spring 2018 STAT 202 Introductory Statistics for Scientists Fall 2017 STAT 211 Introductory Statistics and Sampling for Accounting Winter 2019 STAT 230 Probability Fall 2018, Winter 2018 STAT 316 Introduction to Statistical Problem Solving by Computer Winter 2019 STAT 330 Mathematical Statistics Fall 2018, Fall 2017 STAT 331 Applied Linear Models Spring 2020 STAT 340 Computer Simulation of Complex Systems Winter 2018 STAT 341 Computational Statistics and Data Analysis Fall 2019 STAT 371 Applied Linear Models and Process Improvement for Business Head TA Spring 2018 STAT441/881 Statistical Learning - Classification Head TA Fall 2020, Fall 2019  </description>
+    </item>
+    
   </channel>
 </rss>

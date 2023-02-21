@@ -1,83 +1,118 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/author/tqtbui/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/miscs/featuring/</loc>
+    <lastmod>2013-02-17T00:00:00-05:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/authors/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/teaching/courses/</loc>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/author/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/research/papers/</loc>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/blog/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/projects/r/r-pub-package/</loc>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/book/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/book/statistical-books/</loc>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/cv_academic/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/miscs/blogs/</loc>
+    <lastmod>2020-12-03T00:00:00-05:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/categories/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/book/books-on-shelf/</loc>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/projects/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/research/talks/</loc>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/publication_types/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/projects/r/r-tutorial-package/</loc>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/projects/python/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/miscs/</loc>
+    <lastmod>2020-12-03T00:00:00-05:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/projects/r/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/</loc>
+    <lastmod>2020-12-03T00:00:00-05:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/research/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/miscs/blogs/why-dl/</loc>
+    <lastmod>2020-12-03T00:00:00-05:00</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/tags/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/author/tqtbui/</loc>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/teaching/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/home/</loc>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/authors/tqtbui/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/authors/</loc>
+  </url>
   
-    <url>
-    
-      <loc>https://tqtbui.github.io/</loc>
-    </url>
+  <url>
+    <loc>https://tqtbui.github.io/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/book/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/cv_academic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/projects/python/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/projects/r/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/teaching/ta/</loc>
+  </url>
   
 </urlset>

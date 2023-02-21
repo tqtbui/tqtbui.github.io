@@ -7,5 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Trang Bui</copyright><atom:link href="https://tqtbui.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paper</title>
+      <link>https://tqtbui.github.io/research/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/research/papers/</guid>
+      <description> General additive network effects model - with Stefan H. Steiner and Nathaniel T. Stevens, submitted to The New England Journal of Statistics in Data Science. In all fairness: A meta-analysis of the tax fairness-tax compliance literature - with Jonathan Farrar, Mary Marshall, Dawn Massey, Linda Thorne, and Anita Wu, submitted to Behavioral Research in Accounting.  </description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://tqtbui.github.io/research/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/research/talks/</guid>
+      <description> Student Seminar Series UWaterloo 2020, Introduction to Experimental Design on Networks; Virtual ISI World Statistics Congress 2021, IPS69, General Linear Network Effects Model for Network Experimentation.  </description>
+    </item>
+    
   </channel>
 </rss>
