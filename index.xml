@@ -69,9 +69,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/projects/r/r-tutorial-package/</guid>
-      <description>Below are the R packages that I developed for the sole purpose of studying, hence will not be maintained. The codes are well-commented to aid understanding algorithms step-by-step. Can be used for teaching or self-studying.
+      <description>Below are R packages that I developed for the sole purpose of studying. Thus they will not be maintained. The codes are well-commented for step-by-step understanding of algorithms. These can be used for teaching or self-studying.
   varngc: Penalized regressions on Vector Autoregressive models. The loss functions used include penalized least square and penalized log-likelihood. The penalty include lasso and group lasso. This package is parallelizable.
-  t.regression: Contains regression models from UWaterloo&amp;rsquo;s STAT844 course instructed by Professor Liang Kun, following the notes of Professor Wayne Oldford.</description>
+  t.regression: Contains regression models from UWaterloo&amp;rsquo;s STAT844 course instructed by Professor Liang Kun, adapted from the lecture notes of Professor Wayne Oldford.</description>
     </item>
     
     <item>
@@ -80,8 +80,8 @@
       <pubDate>Thu, 03 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://tqtbui.github.io/miscs/blogs/why-dl/</guid>
-      <description>Thanks to the David Sprott&amp;rsquo;s Distinguished Lecture by Professor Trevor Hastie and questions raised by Professor Ali Ghodsi in the Q&amp;amp;A session today, I realized that several things about Deep Learning. Why they are so good, I think there are three reasons:
- For me, Deep Learning is just like a stack of linear models, so it is one way of ensemble models together with a certain structure, maybe hierarchical. Hence, the Deep Learning models usually contain more parameters than the classical models, which may explain why it can have better performance with bigger data.</description>
+      <description>Thanks to the David Sprott&amp;rsquo;s Distinguished Lecture by Professor Trevor Hastie and the question raised by Professor Ali Ghodsi in the Q&amp;amp;A session today, I realized several things about Deep Learning. I think there are three reasons why they are so good:
+ For me, Deep Learning is like a stack of simpler models. Simpler models, such as linear models, are ensembled together into a certain, probably hierarchical, structure. Thus, Deep Learning models usually contain many more parameters than other classical models.</description>
     </item>
     
     <item>
@@ -99,7 +99,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/teaching/ta/</guid>
-      <description>During my graduate study at University of Waterloo, I work as a teaching assistant for statistics courses in the department. Below is the list of the courses that I have assisted.
+      <description>During my graduate study at University of Waterloo, I work as a teaching assistant for many courses. Below is the list of courses that I have assisted.
  ACTSC 231 Introductory Financial Mathematics Spring 2018. STAT 202 Introductory Statistics for Scientists Fall 2017. STAT 211 Introductory Statistics and Sampling for Accounting Winter 2019. STAT 230 Probability Fall 2018, Winter 2018. STAT 316 Introduction to Statistical Problem Solving by Computer Winter 2019.</description>
     </item>
     

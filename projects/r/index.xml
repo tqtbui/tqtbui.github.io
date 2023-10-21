@@ -13,9 +13,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/projects/r/r-tutorial-package/</guid>
-      <description>Below are the R packages that I developed for the sole purpose of studying, hence will not be maintained. The codes are well-commented to aid understanding algorithms step-by-step. Can be used for teaching or self-studying.
+      <description>Below are R packages that I developed for the sole purpose of studying. Thus they will not be maintained. The codes are well-commented for step-by-step understanding of algorithms. These can be used for teaching or self-studying.
   varngc: Penalized regressions on Vector Autoregressive models. The loss functions used include penalized least square and penalized log-likelihood. The penalty include lasso and group lasso. This package is parallelizable.
-  t.regression: Contains regression models from UWaterloo&amp;rsquo;s STAT844 course instructed by Professor Liang Kun, following the notes of Professor Wayne Oldford.</description>
+  t.regression: Contains regression models from UWaterloo&amp;rsquo;s STAT844 course instructed by Professor Liang Kun, adapted from the lecture notes of Professor Wayne Oldford.</description>
     </item>
     
   </channel>

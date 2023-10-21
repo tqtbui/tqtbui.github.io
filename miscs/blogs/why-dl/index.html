@@ -256,11 +256,11 @@
 
     <div class="article-style">
       
-      <div class="article-style" itemprop="articleBody"><p>Thanks to the David Sprott&rsquo;s Distinguished Lecture by Professor Trevor Hastie and questions raised by Professor Ali Ghodsi in the Q&amp;A session today, I realized that several things about Deep Learning. Why they are so good, I think there are three reasons:</p>
+      <div class="article-style" itemprop="articleBody"><p>Thanks to the David Sprott&rsquo;s Distinguished Lecture by Professor Trevor Hastie and the question raised by Professor Ali Ghodsi in the Q&amp;A session today, I realized several things about Deep Learning. I think there are three reasons why they are so good:</p>
 <ul>
-<li>For me, Deep Learning is just like a stack of linear models, so it is one way of ensemble models together with a certain structure, maybe hierarchical. Hence, the Deep Learning models usually contain more parameters than the classical models, which may explain why it can have better performance with bigger data. The data has been summarized by more parameters.</li>
-<li>A lot of the model takes in knowledge about the data to give a good modeling. For example, the scan in CNN is just like a local kernel, which makes sense to capture the locally-correlated features in an image. Deep Learning also make use of data augmentation, just like we are adding a &ldquo;gaussian cloud&rdquo; to the data in classical modeling. These augmentation has more power because they are usually correct. In CNN, jittering the picture or rotating it we know that it still has the same label, i.e., we are adding in data with labels/response that we know is the true.</li>
-<li>Deep Learning is online learning. It keeps updating with new data, i.e., we can use pre-train model for a new one. This makes it become very handy in a lot of applications.</li>
+<li>For me, Deep Learning is like a stack of simpler models. Simpler models, such as linear models, are ensembled together into a certain, probably hierarchical, structure. Thus, Deep Learning models usually contain many more parameters than other classical models. This may may explain why it has better performance with bigger data: Deep Learning summarize data using more parameters.</li>
+<li>A lot of Deep Learning models take into account data structure. For example, the scan in CNN is a local kernel that captures locally-correlated features in an image. Deep Learning models also make use of data augmentation, as if we are adding a &ldquo;Gaussian cloud&rdquo; to the data. These augmentation gives more power to the model because we have more data for free: jittering the picture or rotating it does not change the label.</li>
+<li>Deep Learning is online learning: we can re-train a pre-trained model with new data. This is very handy in a lot of applications.</li>
 </ul>
 </div>
     

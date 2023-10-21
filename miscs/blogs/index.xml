@@ -14,8 +14,8 @@
       <pubDate>Thu, 03 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://tqtbui.github.io/miscs/blogs/why-dl/</guid>
-      <description>Thanks to the David Sprott&amp;rsquo;s Distinguished Lecture by Professor Trevor Hastie and questions raised by Professor Ali Ghodsi in the Q&amp;amp;A session today, I realized that several things about Deep Learning. Why they are so good, I think there are three reasons:
- For me, Deep Learning is just like a stack of linear models, so it is one way of ensemble models together with a certain structure, maybe hierarchical. Hence, the Deep Learning models usually contain more parameters than the classical models, which may explain why it can have better performance with bigger data.</description>
+      <description>Thanks to the David Sprott&amp;rsquo;s Distinguished Lecture by Professor Trevor Hastie and the question raised by Professor Ali Ghodsi in the Q&amp;amp;A session today, I realized several things about Deep Learning. I think there are three reasons why they are so good:
+ For me, Deep Learning is like a stack of simpler models. Simpler models, such as linear models, are ensembled together into a certain, probably hierarchical, structure. Thus, Deep Learning models usually contain many more parameters than other classical models.</description>
     </item>
     
   </channel>
