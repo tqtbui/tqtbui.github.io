@@ -9,13 +9,23 @@
     <copyright>&amp;copy; {year} Trang Bui</copyright>
     <lastBuildDate>Thu, 03 Dec 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://tqtbui.github.io/miscs/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Advice for Ph.D. students</title>
+      <link>https://tqtbui.github.io/miscs/blogs/phd-exp/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://tqtbui.github.io/miscs/blogs/phd-exp/</guid>
+      <description>I recently submitted my thesis. This marks the end of my long and hard Ph.D. journey. Reflecting on my bumpy road, there are something I wish I knew and I think it will be beneficial to share my thoughts, in case they can help someone.
+  The most important keys for success in any field is persistence and consistency. It will be very helpful to have a good working routine, diet and exercise.</description>
+    </item>
+    
+    <item>
       <title>Why is Deep Learning good?</title>
       <link>https://tqtbui.github.io/miscs/blogs/why-dl/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 -0500</pubDate>
       
       <guid>https://tqtbui.github.io/miscs/blogs/why-dl/</guid>
-      <description>Thanks to the David Sprott&amp;rsquo;s Distinguished Lecture by Professor Trevor Hastie and the question raised by Professor Ali Ghodsi in the Q&amp;amp;A session today, I realized several things about Deep Learning. I think there are three reasons why they are so good:
- For me, Deep Learning is like a stack of simpler models. Simple models, such as linear models, are ensembled together into a certain, probably hierarchical, structure. Thus, Deep Learning models usually contain many more parameters than other classical models.</description>
+      <description>Thanks to the David Sprott&amp;rsquo;s Distinguished Lecture by Professor Trevor Hastie and the question raised by Professor Ali Ghodsi in the Q&amp;amp;A session today, I realized several things about Deep Learning. I think there are three main reasons why they are so good:
+ Deep Learning is like a stack of simpler models. Simple models, such as linear models, are ensembled together into a certain, probably hierarchical, structure. Thus, Deep Learning models usually contain many more parameters than other classical models.</description>
     </item>
     
   </channel>
