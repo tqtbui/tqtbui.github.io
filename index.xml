@@ -9,13 +9,13 @@
     <copyright>&amp;copy; {year} Trang Bui</copyright>
     <lastBuildDate>Mon, 04 Mar 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://tqtbui.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Featuring</title>
+      <title>News</title>
       <link>https://tqtbui.github.io/miscs/featuring/</link>
       <pubDate>Sun, 17 Feb 2013 00:00:00 -0500</pubDate>
       
       <guid>https://tqtbui.github.io/miscs/featuring/</guid>
       <description>Some news and online articles featuring me.
- My paper: General Additive Network Effect Model was featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science. I won the Student Research Presentation Awards in Business and Industrial Statistics and the First Prize in Case Studies in Data Analysis Poster Competition at the SSC Annual Meeting, 2023. I appeared on the news of the Statistical Consulting and Survey Research Unit for my collaborative paper on tax fairness and tax compliance.</description>
+ 2024/04/10: I received the Distinguished Service Award for the UWaterloo&amp;rsquo;s Women in Mathematics Directed Reading Program. During my time here, I coordinated three projects and mentored four students. 2024/03/01: My paper: General Additive Network Effect Model was featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science. 2023/11/14: I appeared on the news of the Statistical Consulting and Survey Research Unit for my collaborative paper on tax fairness and tax compliance.</description>
     </item>
     
     <item>
@@ -24,16 +24,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/teaching/courses/</guid>
-      <description> Analytic Methods for Business 2 Spring 2022. Syllabus  </description>
+      <description>University of Waterloo
+ Analytic Methods for Business 2 Spring 2022. [Syllabus]. [Lecture Notes].  </description>
     </item>
     
     <item>
-      <title>Online Resources</title>
+      <title>My Books</title>
       <link>https://tqtbui.github.io/book/online-resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/book/online-resources/</guid>
-      <description> Topics in Statistical Consulting - coauthored and edited with SCCRU at University of Waterloo. A First Course in Statistics - wrote based on my lecture notes for AFM 113, Spring 2022 at University of Waterloo.  </description>
+      <description>Online Resources
+ Topics in Statistical Consulting - coauthored and edited with SCSRU at University of Waterloo. A First Course in Statistics - written based on my lecture notes for AFM 113, Spring 2022 at University of Waterloo.  </description>
     </item>
     
     <item>
@@ -43,8 +45,9 @@
       
       <guid>https://tqtbui.github.io/research/papers/</guid>
       <description>Methodology Papers
- General additive network effects model - with Stefan H. Steiner and Nathaniel T. Stevens. New England Journal of Statistics and Data Science (2023), 1-19, doi 10.51387/23-NEJSDS29.  Applied Papers
-  Understanding the Impact of Seasonal Climate Change on Canada&amp;rsquo;s Economy by Region and Sector - with Shiyu He, Yuying Huang, Wenling Zhang, Jie Jian, Samuel W.K. Wong, and Tony S. Wirjanto. Submitted to Journal of Sustainable Finance &amp;amp; Investment.</description>
+  General additive network effects model - with Stefan H. Steiner and Nathaniel T. Stevens. New England Journal of Statistics and Data Science (2023), 1-19, doi 10.51387/23-NEJSDS29.
+ Featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science.    Applied Papers
+  Understanding the Impact of Seasonal Climate Change on Canada&amp;rsquo;s Economy by Region and Sector - with Shiyu He, Yuying Huang, Wenling Zhang, Jie Jian, Samuel W.</description>
     </item>
     
     <item>
