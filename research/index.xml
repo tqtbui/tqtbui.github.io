@@ -14,9 +14,9 @@
       
       <guid>https://tqtbui.github.io/research/papers/</guid>
       <description>Methodology Papers
+  Error Analysis of Shapley Value-Based Model Explanations: An Informative Perspective - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. To be appeared in the Proceedings of the 7th International Symposium on AI Verification.
   General additive network effects model - with Stefan H. Steiner and Nathaniel T. Stevens. New England Journal of Statistics and Data Science (2023), 1-19, doi 10.51387/23-NEJSDS29.
- Featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science.    Applied Papers
-  Understanding the Impact of Seasonal Climate Change on Canada&amp;rsquo;s Economy by Region and Sector - with Shiyu He, Yuying Huang, Wenling Zhang, Jie Jian, Samuel W.</description>
+ Featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science.</description>
     </item>
     
     <item>
@@ -25,10 +25,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/research/talks/</guid>
-      <description>  Statistical Society of Canada Annual Meeting 2023, Analytic Approaches for Novel Data Sources. General Linear Network Effects Model.
- Won the Business and Industrial Statistics Section Student Research Oral Presentation Award.      Virtual ISI World Statistics Congress 2021, IPS69, General Linear Network Effects Model for Network Experimentation.
-  Student Seminar Series UWaterloo 2020, Introduction to Experimental Design on Networks.
-  </description>
+      <description>Canada Revenue Agency, Invited Seminar for Program Analysis Section, 2024. Design and Analysis of Experiments on Networks.
+  Joint Research Conference on Statistics in Quality, Industry, and Technology 2024, Advancements in Statistical Methods. Optimal Bayesian Designs for Network A/B Testing.
+  Statistical Society of Canada Annual Meeting 2024, Big Data Analysis. Analysis Of Experiments On Networks With Binary Outcomes.
+ Awarded the Honorable Mention in the Student Research Oral Presentation Competition in Data Science and Analytics.</description>
     </item>
     
   </channel>
