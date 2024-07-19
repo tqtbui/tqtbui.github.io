@@ -15,7 +15,7 @@
       
       <guid>https://tqtbui.github.io/miscs/featuring/</guid>
       <description>Some news and online articles featuring me.
- 2024/06/05: I obtained the Honorable Mention in the Student Research Oral Presentation Competition in Data Science and Analytics at the SSC Annual Meeting, 2024. 2024/04/10: I received the Distinguished Service Award for the UWaterloo&amp;rsquo;s Women in Mathematics Directed Reading Program. During my time here, I coordinated three projects and mentored four students. 2024/03/01: My paper: General Additive Network Effect Model was featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science.</description>
+ 2024/06/05: I obtained the Honorable Mention in the Student Research Oral Presentation Competition in Data Science and Analytics at the SSC Annual Meeting, 2024. 2024/04/10: I received the Distinguished Service Award for the UWaterloo&amp;rsquo;s Women in Mathematics Directed Reading Program. During my time here, I coordinated three projects and mentored four undergraduate students. 2024/03/01: My paper: General Additive Network Effect Model was featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       
       <guid>https://tqtbui.github.io/book/online-resources/</guid>
       <description>Online Resources
- Topics in Statistical Consulting - coauthored and edited with SCSRU at University of Waterloo. A First Course in Statistics - written based on my lecture notes for AFM 113, Spring 2022 at University of Waterloo.  </description>
+ Topics in Statistical Consulting - coauthored with SCSRU at University of Waterloo. A First Course in Statistics - written based on my lecture notes for AFM 113, Spring 2022 at University of Waterloo.  </description>
     </item>
     
     <item>
@@ -45,9 +45,8 @@
       
       <guid>https://tqtbui.github.io/research/papers/</guid>
       <description>Methodology Papers
-  Error Analysis of Shapley Value-Based Model Explanations: An Informative Perspective - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. To be appeared in the Proceedings of the 7th International Symposium on AI Verification.
-  General additive network effects model - with Stefan H. Steiner and Nathaniel T. Stevens. New England Journal of Statistics and Data Science (2023), 1-19, doi 10.51387/23-NEJSDS29.
- Featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science.</description>
+  Error Analysis of Shapley Value-Based Model Explanations: An Informative Perspective - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. In: Avni, G., et al. AI Verification. SAIV (2024). Lecture Notes in Computer Science, vol 14846, pp 29–48. Springer, Cham. doi 10.1007/978-3-031-65112-0_2.
+  General additive network effects model - with Stefan H. Steiner and Nathaniel T. Stevens. New England Journal of Statistics and Data Science (2023).</description>
     </item>
     
     <item>
