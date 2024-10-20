@@ -45,8 +45,8 @@
       
       <guid>https://tqtbui.github.io/research/papers/</guid>
       <description>Methodology Papers
-  Error Analysis of Shapley Value-Based Model Explanations: An Informative Perspective - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. In: Avni, G., et al. AI Verification. SAIV (2024). Lecture Notes in Computer Science, vol 14846, pp 29–48. Springer, Cham. doi 10.1007/978-3-031-65112-0_2.
-  General additive network effects model - with Stefan H. Steiner and Nathaniel T. Stevens. New England Journal of Statistics and Data Science (2023).</description>
+  Correcting Biases of Shapley Value Attributions for Informative Machine Learning Model Explanations - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, 3331–3340. doi:10.1145/3627673.3679846
+  Error Analysis of Shapley Value-Based Model Explanations: An Informative Perspective - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. In: Avni, G., et al. AI Verification. SAIV (2024).</description>
     </item>
     
     <item>
