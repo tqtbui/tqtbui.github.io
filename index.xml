@@ -15,7 +15,7 @@
       
       <guid>https://tqtbui.github.io/miscs/featuring/</guid>
       <description>Some news and online articles featuring me.
- 2024/06/05: I obtained the Honorable Mention in the Student Research Oral Presentation Competition in Data Science and Analytics at the SSC Annual Meeting, 2024. 2024/04/10: I received the Distinguished Service Award for the UWaterloo&amp;rsquo;s Women in Mathematics Directed Reading Program. During my time here, I coordinated three projects and mentored four undergraduate students. 2024/03/01: My paper: General Additive Network Effect Model was featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science.</description>
+ 2025/08: I received the myHub Travel Award, 2025. 2025/06: I received the Student Travel Support for the Quality and Productivity Research Conference, 2025. 2024/06/05: I obtained the Honorable Mention in the Student Research Oral Presentation Competition in Data Science and Analytics at the SSC Annual Meeting, 2024. 2024/04/10: I received the Distinguished Service Award for the UWaterloo&amp;rsquo;s Women in Mathematics Directed Reading Program.</description>
     </item>
     
     <item>
@@ -44,9 +44,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/research/papers/</guid>
-      <description>Methodology Papers
-  Correcting Biases of Shapley Value Attributions for Informative Machine Learning Model Explanations - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (2024), pp 3331–3340. doi:10.1145/3627673.3679846
-  Error Analysis of Shapley Value-Based Model Explanations: An Informative Perspective - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. In: Avni, G., et al. AI Verification.</description>
+      <description>Experimental Design
+  Genetic Algorithm-Based Bayesian Optimal Design for Network Experiments - with Steiner and Nathaniel T. Stevens. Technometrics (2025). pp 1-20. doi 10.1080/00401706.2025.2584500.
+  General additive network effects model - with Stefan H. Steiner and Nathaniel T. Stevens. New England Journal of Statistics and Data Science (2023). pp 1-19, doi 10.51387/23-NEJSDS29.
+ Featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science.</description>
     </item>
     
     <item>
@@ -64,10 +65,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/research/talks/</guid>
-      <description>Canada Revenue Agency, Invited Seminar for Program Analysis Section, 2024. Design and Analysis of Experiments on Networks.
-  Joint Research Conference on Statistics in Quality, Industry, and Technology 2024, Advancements in Statistical Methods. Optimal Bayesian Designs for Network A/B Testing.
-  Statistical Society of Canada Annual Meeting 2024, Big Data Analysis. Analysis Of Experiments On Networks With Binary Outcomes.
- Awarded the Honorable Mention in the Student Research Oral Presentation Competition in Data Science and Analytics.</description>
+      <description>Outperformance Score: A Universal Standardization for Confusion Matrix-Based Classification Performance Metrics: The Thirteenth Annual Conference of the Upstate Chapters of the American Statistical Association (2025); Quality and Productivity Research Conference (2025); Data Science Research Group at Rochester Institute of Technology (2025); Ploutos AI Community Livestream (2025).
+  Optimal Bayesian Designs for Network A/B Testing: Joint Research Conference on Statistics in Quality, Industry, and Technology (2024); ASA/IMS Spring Research Conference (2025).</description>
     </item>
     
     <item>
