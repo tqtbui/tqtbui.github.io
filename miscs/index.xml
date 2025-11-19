@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Trang Bui</copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://tqtbui.github.io/miscs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Nov 2025 00:00:00 -0500</lastBuildDate><atom:link href="https://tqtbui.github.io/miscs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>https://tqtbui.github.io/miscs/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/miscs/resources/</guid>
+      <description>Useful resources:
+  Seminar series: OCSI, NISS, ASA SLDS.
+  Data: R datasets, Harvard Dataverse, UCI Datasets, Network Repository, SNAP Network Datasets, Kaggle.
+  Applying for a faculty position in Statistics: blog posts by Dr. Ray Bai and Dr. Bingkai Wang.
+  Growth as a faculty: NISS seminar.
+  </description>
+    </item>
+    
     <item>
       <title>News</title>
       <link>https://tqtbui.github.io/miscs/featuring/</link>
@@ -15,6 +29,7 @@
       
       <guid>https://tqtbui.github.io/miscs/featuring/</guid>
       <description>Some news and online articles featuring me.
+2017-2025
  2025/08: I received the myHub Travel Award, 2025. 2025/06: I received the Student Travel Support for the Quality and Productivity Research Conference, 2025. 2024/06/05: I obtained the Honorable Mention in the Student Research Oral Presentation Competition in Data Science and Analytics at the SSC Annual Meeting, 2024. 2024/04/10: I received the Distinguished Service Award for the UWaterloo&amp;rsquo;s Women in Mathematics Directed Reading Program.</description>
     </item>
     

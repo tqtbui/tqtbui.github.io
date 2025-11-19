@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Trang Bui</copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://tqtbui.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Nov 2025 00:00:00 -0500</lastBuildDate><atom:link href="https://tqtbui.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>News</title>
-      <link>https://tqtbui.github.io/miscs/featuring/</link>
-      <pubDate>Sun, 17 Feb 2013 00:00:00 -0500</pubDate>
+      <title>Words that Made My Day</title>
+      <link>https://tqtbui.github.io/miscs/appreciations/words/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 -0500</pubDate>
       
-      <guid>https://tqtbui.github.io/miscs/featuring/</guid>
-      <description>Some news and online articles featuring me.
- 2025/08: I received the myHub Travel Award, 2025. 2025/06: I received the Student Travel Support for the Quality and Productivity Research Conference, 2025. 2024/06/05: I obtained the Honorable Mention in the Student Research Oral Presentation Competition in Data Science and Analytics at the SSC Annual Meeting, 2024. 2024/04/10: I received the Distinguished Service Award for the UWaterloo&amp;rsquo;s Women in Mathematics Directed Reading Program.</description>
+      <guid>https://tqtbui.github.io/miscs/appreciations/words/</guid>
+      <description>Some of the many words that made my day and taught me so much. I am truly grateful for all the kindness that I have received over the the years. This has really kept me moving forward, motivated me to become a better person and reminded me to give back to the world.
+  &amp;ldquo;I wish you good luck and happiness in your life. You have a long life in front of you.</description>
     </item>
     
     <item>
@@ -26,6 +26,19 @@
       <guid>https://tqtbui.github.io/teaching/courses/</guid>
       <description>University of Waterloo
  Analytic Methods for Business 2 Spring 2022. [Syllabus]. [Lecture Notes].  </description>
+    </item>
+    
+    <item>
+      <title>For publications</title>
+      <link>https://tqtbui.github.io/projects/r/r-pub-package/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/projects/r/r-pub-package/</guid>
+      <description>These are the codes that I developed for my research and publications.
+  Codes for Causal inference for the expected number of recurrent events in the presence of a terminal event.
+  Codes for Genetic Algorithm-Based Bayesian Optimal Design for Network Experiments.
+  Codes for the fourth Chapter of my Ph.D. thesis, Bayesian Optimal Designs for Experiments on Networks.
+  </description>
     </item>
     
     <item>
@@ -48,6 +61,40 @@
   Genetic Algorithm-Based Bayesian Optimal Design for Network Experiments - with Steiner and Nathaniel T. Stevens. Technometrics (2025). pp 1-20. doi 10.1080/00401706.2025.2584500.
   General additive network effects model - with Stefan H. Steiner and Nathaniel T. Stevens. New England Journal of Statistics and Data Science (2023). pp 1-19, doi 10.51387/23-NEJSDS29.
  Featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://tqtbui.github.io/miscs/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/miscs/resources/</guid>
+      <description>Useful resources:
+  Seminar series: OCSI, NISS, ASA SLDS.
+  Data: R datasets, Harvard Dataverse, UCI Datasets, Network Repository, SNAP Network Datasets, Kaggle.
+  Applying for a faculty position in Statistics: blog posts by Dr. Ray Bai and Dr. Bingkai Wang.
+  Growth as a faculty: NISS seminar.
+  </description>
+    </item>
+    
+    <item>
+      <title>Academic Appreciation</title>
+      <link>https://tqtbui.github.io/miscs/appreciations/academic/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://tqtbui.github.io/miscs/appreciations/academic/</guid>
+      <description>I would like to continually remind myself of how fortunate I am in my academic journey. While I cannot name each individual, I extend my sincere gratitude to the Professors and Researchers I have worked with or met. Their valuable opportunities, generous support, and thoughtful advice have shaped both my work and my career.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://tqtbui.github.io/miscs/featuring/</link>
+      <pubDate>Sun, 17 Feb 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://tqtbui.github.io/miscs/featuring/</guid>
+      <description>Some news and online articles featuring me.
+2017-2025
+ 2025/08: I received the myHub Travel Award, 2025. 2025/06: I received the Student Travel Support for the Quality and Productivity Research Conference, 2025. 2024/06/05: I obtained the Honorable Mention in the Student Research Oral Presentation Competition in Data Science and Analytics at the SSC Annual Meeting, 2024. 2024/04/10: I received the Distinguished Service Award for the UWaterloo&amp;rsquo;s Women in Mathematics Directed Reading Program.</description>
     </item>
     
     <item>
@@ -81,12 +128,25 @@
     </item>
     
     <item>
+      <title>Students</title>
+      <link>https://tqtbui.github.io/research/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqtbui.github.io/research/students/</guid>
+      <description>Undergraduates
+  Sanika Poojary. UWaterloo&amp;rsquo;s WiM DRP (2024). Project: Introduction to Explanable AI → Master of Data Science and Artificial Intelligence at University of Waterloo.
+  Jamiee Yeung. UWaterloo&amp;rsquo;s WiM DRP (2023, 2024). Projects: Visualizing and Analyzing Spatially Correlated Data, Introduction to Explanable AI → Analyst at Evercore.
+  Sagun Malwatkar. UWaterloo&amp;rsquo;s WiM DRP (2023). Project: Asymptotics for Linear Regression → Software Development Engineer at Amazon.
+  </description>
+    </item>
+    
+    <item>
       <title>Advice for Ph.D. students</title>
       <link>https://tqtbui.github.io/miscs/blogs/phd-exp/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 -0500</pubDate>
       
       <guid>https://tqtbui.github.io/miscs/blogs/phd-exp/</guid>
-      <description>I recently submitted my thesis, which marks the end of my long and hard Ph.D. journey. Reflecting on my bumpy road, there are something I wish I knew. I think it will be beneficial to share my thoughts, in case they can help someone.
+      <description>I recently submitted my thesis, which marks the end of my long and hard Ph.D. journey. Reflecting on my bumpy road, there are something I wish I knew. I think it will be beneficial to share my thoughts, in case they can be helpful to someone.
   The most important keys for success in any field is persistence and consistency. It will be very helpful to have a good working routine, diet and exercise.</description>
     </item>
     

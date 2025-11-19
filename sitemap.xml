@@ -3,12 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tqtbui.github.io/miscs/featuring/</loc>
-    <lastmod>2013-02-17T00:00:00-05:00</lastmod>
+    <loc>https://tqtbui.github.io/miscs/appreciations/words/</loc>
+    <lastmod>2025-11-19T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://tqtbui.github.io/teaching/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/projects/r/r-pub-package/</loc>
   </url>
   
   <url>
@@ -20,8 +24,17 @@
   </url>
   
   <url>
-    <loc>https://tqtbui.github.io/miscs/blogs/</loc>
-    <lastmod>2024-03-04T00:00:00-05:00</lastmod>
+    <loc>https://tqtbui.github.io/miscs/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/miscs/appreciations/academic/</loc>
+    <lastmod>2020-12-03T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/miscs/featuring/</loc>
+    <lastmod>2013-02-17T00:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -37,17 +50,31 @@
   </url>
   
   <url>
-    <loc>https://tqtbui.github.io/miscs/blogs/phd-exp/</loc>
+    <loc>https://tqtbui.github.io/miscs/blogs/</loc>
     <lastmod>2024-03-04T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/research/students/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/miscs/appreciations/</loc>
+    <lastmod>2025-11-19T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://tqtbui.github.io/miscs/</loc>
-    <lastmod>2024-03-04T00:00:00-05:00</lastmod>
+    <lastmod>2025-11-19T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://tqtbui.github.io/</loc>
+    <lastmod>2025-11-19T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tqtbui.github.io/miscs/blogs/phd-exp/</loc>
     <lastmod>2024-03-04T00:00:00-05:00</lastmod>
   </url>
   
