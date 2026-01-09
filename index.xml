@@ -7,14 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Trang Bui</copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 -0500</lastBuildDate><atom:link href="https://tqtbui.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 -0600</lastBuildDate><atom:link href="https://tqtbui.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Courses</title>
       <link>https://tqtbui.github.io/teaching/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/teaching/courses/</guid>
-      <description>University of Waterloo
+      <description>University of Saskatchewan
+ Sampling Techniques Winter 2026. [Syllabus]. [Lecture Notes].  University of Waterloo
  Analytic Methods for Business 2 Spring 2022. [Syllabus]. [Lecture Notes].  </description>
     </item>
     
@@ -38,7 +39,7 @@
       
       <guid>https://tqtbui.github.io/book/online-resources/</guid>
       <description>Online Resources
- Topics in Statistical Consulting - coauthored with SCSRU at University of Waterloo. A First Course in Statistics - written based on my lecture notes for AFM 113, Spring 2022 at University of Waterloo.  </description>
+ Topics in Statistical Consulting - coauthored with SCSRU at University of Waterloo. A First Course in Statistics - written based on my lecture notes for AFM 113, Spring 2022, at University of Waterloo. A Concise Introduction to Survey Sampling - written for STAT 348, Winter 2026, at University of Saskatchewan.  </description>
     </item>
     
     <item>
@@ -70,7 +71,7 @@
     <item>
       <title>News</title>
       <link>https://tqtbui.github.io/miscs/featuring/</link>
-      <pubDate>Sun, 17 Feb 2013 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 17 Feb 2013 00:00:00 -0600</pubDate>
       
       <guid>https://tqtbui.github.io/miscs/featuring/</guid>
       <description>Some news and online articles featuring me.
@@ -124,7 +125,7 @@
     <item>
       <title>Advice for Ph.D. students</title>
       <link>https://tqtbui.github.io/miscs/blogs/phd-exp/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 -0600</pubDate>
       
       <guid>https://tqtbui.github.io/miscs/blogs/phd-exp/</guid>
       <description>I recently submitted my thesis, which marks the end of my long and hard Ph.D. journey. Reflecting on my bumpy road, there are something I wish I knew. I think it will be beneficial to share my thoughts, in case they can be helpful to someone.
@@ -134,7 +135,7 @@
     <item>
       <title>Why is Deep Learning good?</title>
       <link>https://tqtbui.github.io/miscs/blogs/why-dl/</link>
-      <pubDate>Thu, 03 Dec 2020 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 -0600</pubDate>
       
       <guid>https://tqtbui.github.io/miscs/blogs/why-dl/</guid>
       <description>Thanks to the David Sprott&amp;rsquo;s Distinguished Lecture by Professor Trevor Hastie and the question raised by Professor Ali Ghodsi in the Q&amp;amp;A session today, I realized several things about Deep Learning. I think there are three main reasons why they are so good:
