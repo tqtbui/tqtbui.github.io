@@ -13,10 +13,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/research/papers/</guid>
-      <description>Experimental Design
- Genetic Algorithm-Based Bayesian Optimal Design for Network Experiments - with Stefan H. Steiner and Nathaniel T. Stevens. Technometrics (2025). pp 1-20. doi 10.1080/00401706.2025.2584500.  Networks
-  General Additive Network Effects Model - with Stefan H. Steiner and Nathaniel T. Stevens. New England Journal of Statistics and Data Science (2023). pp 1-19, doi 10.51387/23-NEJSDS29.
- Featured in the “Design and Analysis of Experiments for Data Science” webinar by the New England Journal of Statistics in Data Science.</description>
+      <description>Trustworthy AI
+  Introducing the O-Value: A Universal Standardization Method for Confusion-Matrix-Based Classification Performance Metrics - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski.
+  Correcting Biases of Shapley Value Attributions for Informative Machine Learning Model Explanations - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (2024), pp 3331–3340. doi:10.1145/3627673.3679846
+  Error Analysis of Shapley Value-Based Model Explanations: An Informative Perspective - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/research/talks/</guid>
-      <description>Outperformance Score: A Universal Standardization for Confusion Matrix-Based Classification Performance Metrics: The Thirteenth Annual Conference of the Upstate Chapters of the American Statistical Association (2025); Quality and Productivity Research Conference (2025); Data Science Research Group at Rochester Institute of Technology (2025); Ploutos AI Community Livestream (2025).
+      <description>Introducing the O-Value: A Universal Standardization for Confusion Matrix-Based Classification Performance Metrics: The Thirteenth Annual Conference of the Upstate Chapters of the American Statistical Association (2025); Quality and Productivity Research Conference (2025); Data Science Research Group at Rochester Institute of Technology (2025); Ploutos AI Community Livestream (2025).
   Optimal Bayesian Designs for Network A/B Testing: Joint Research Conference on Statistics in Quality, Industry, and Technology (2024); ASA/IMS Spring Research Conference (2025).</description>
     </item>
     
