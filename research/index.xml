@@ -15,7 +15,7 @@
       <guid>https://tqtbui.github.io/research/papers/</guid>
       <description>Trustworthy AI
   Introducing the O-Value: A Universal Standardization Method for Confusion-Matrix-Based Classification Performance Metrics - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski.
-  Correcting Biases of Shapley Value Attributions for Informative Machine Learning Model Explanations - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (2024), pp 3331–3340. doi:10.1145/3627673.3679846
+  Correcting Biases of Shapley Value Attributions for Informative Machine Learning Model Explanations - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. CIKM 2024.
   Error Analysis of Shapley Value-Based Model Explanations: An Informative Perspective - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski.</description>
     </item>
     
@@ -25,8 +25,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/research/talks/</guid>
-      <description>Introducing the O-Value: A Universal Standardization for Confusion Matrix-Based Classification Performance Metrics: The Thirteenth Annual Conference of the Upstate Chapters of the American Statistical Association (2025); Quality and Productivity Research Conference (2025); Data Science Research Group at Rochester Institute of Technology (2025); Ploutos AI Community Livestream (2025).
-  Optimal Bayesian Designs for Network A/B Testing: Joint Research Conference on Statistics in Quality, Industry, and Technology (2024); ASA/IMS Spring Research Conference (2025).</description>
+      <description>Error Analysis and Bias Correction of Shapley-value-based Black-Box Explanations: SLDS 2026.
+  Causal Inference for Recurrent Events in the Presence of A Terminal Event: SSC 2026.
+  Introducing the O-Value: A Universal Standardization for Confusion Matrix-Based Classification Performance Metrics: UPSTAT 2025; QPRC 2025; Data Science Research Group at RIT 2025; Ploutos AI Community Livestream 2025.
+  Optimal Bayesian Designs for Network A/B Testing: Joint Research Conference on Statistics in Quality, Industry, and Technology 2024; ASA/IMS Spring Research Conference 2025.</description>
     </item>
     
     <item>
@@ -35,11 +37,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/research/students/</guid>
-      <description>Undergraduates
-  Sanika Poojary. UWaterloo&amp;rsquo;s WiM DRP (2024). Project: Introduction to Explanable AI → Master of Data Science and Artificial Intelligence at University of Waterloo.
-  Jamiee Yeung. UWaterloo&amp;rsquo;s WiM DRP (2023, 2024). Projects: Visualizing and Analyzing Spatially Correlated Data, Introduction to Explanable AI → Analyst at Evercore.
-  Sagun Malwatkar. UWaterloo&amp;rsquo;s WiM DRP (2023). Project: Asymptotics for Linear Regression → Software Development Engineer at Amazon.
-  </description>
+      <description>PhD
+ Toan Mai. USask&amp;rsquo;s PhD in Statistics. 2027 &amp;ndash; present.  Master&amp;rsquo;s
+ Jeremy Bell. USask&amp;rsquo;s Master&amp;rsquo;s in Mathematics. Co-supervised with Steven Rayan. 2026 &amp;ndash; present.  Research Associate
+ Nguyen Pham. Oxford University Clinical Research Unit. 2026 &amp;ndash; present.  Undergraduate
+  Sanika Poojary. UWaterloo&amp;rsquo;s WiM DRP (2024). Project: Introduction to Explanable AI.   Jamiee Yeung. UWaterloo&amp;rsquo;s WiM DRP (2023, 2024). Projects: Visualizing and Analyzing Spatially Correlated Data, Introduction to Explanable AI.</description>
     </item>
     
   </channel>

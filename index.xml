@@ -20,26 +20,13 @@
     </item>
     
     <item>
-      <title>For publications</title>
-      <link>https://tqtbui.github.io/projects/r/r-pub-package/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tqtbui.github.io/projects/r/r-pub-package/</guid>
-      <description>These are the codes that I developed for my research and publications.
-  Codes for Causal inference for the expected number of recurrent events in the presence of a terminal event.
-  Codes for Genetic Algorithm-Based Bayesian Optimal Design for Network Experiments.
-  Codes for the fourth Chapter of my Ph.D. thesis, Bayesian Optimal Designs for Experiments on Networks.
-  </description>
-    </item>
-    
-    <item>
       <title>My Books</title>
       <link>https://tqtbui.github.io/book/online-resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/book/online-resources/</guid>
       <description>Online Resources
- Topics in Statistical Consulting - coauthored with SCSRU at University of Waterloo. A First Course in Statistics - written based on my lecture notes for AFM 113, Spring 2022, at University of Waterloo. A Concise Introduction to Survey Sampling - written for STAT 348, Winter 2026, at University of Saskatchewan.  </description>
+ Topics in Statistical Consulting - coauthored with SCSRU at University of Waterloo, 2020. A First Course in Statistics - written based on my lecture notes for AFM 113, Spring 2022, at University of Waterloo. A Concise Introduction to Survey Sampling - written for STAT 348, Winter 2026, at University of Saskatchewan.  </description>
     </item>
     
     <item>
@@ -50,7 +37,7 @@
       <guid>https://tqtbui.github.io/research/papers/</guid>
       <description>Trustworthy AI
   Introducing the O-Value: A Universal Standardization Method for Confusion-Matrix-Based Classification Performance Metrics - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski.
-  Correcting Biases of Shapley Value Attributions for Informative Machine Learning Model Explanations - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (2024), pp 3331–3340. doi:10.1145/3627673.3679846
+  Correcting Biases of Shapley Value Attributions for Informative Machine Learning Model Explanations - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. CIKM 2024.
   Error Analysis of Shapley Value-Based Model Explanations: An Informative Perspective - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski.</description>
     </item>
     
@@ -85,7 +72,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/book/book-recommendation/</guid>
-      <description>Van der Vaart, A. W. (2012). Asymptotic statistics. Cambridge University Press. Tsiatis, A. A. (2006). Semiparametric theory and missing data (Vol. 4). New York: Springer. Howell, D. C. (2012). Statistical methods for psychology. Cengage Learning. Douglas, C. M. (2019). Design and analysis of experiments. John Wiley &amp;amp; Sons Ltd. McCulloch, C. E., &amp;amp; Searle, S. R. (2008). Generalized, linear, and mixed models. John Wiley &amp;amp; Sons. Seber, G. A., &amp;amp; Wild, C.</description>
+      <description>Van der Vaart, A. W. (2012). Asymptotic Statistics. Cambridge University Press. Tsiatis, A. A. (2006). Semiparametric Theory and Missing Data. Springer New York. Howell, D. C. (2012). Statistical Methods for Psychology. Cengage Learning. Douglas, C. M. (2019). Design and Analysis of Experiments. John Wiley &amp;amp; Sons Ltd. McCulloch, C. E., &amp;amp; Searle, S. R. (2008). Generalized, Linear, and Mixed Models. John Wiley &amp;amp; Sons. Seber, G. A., &amp;amp; Wild, C.</description>
     </item>
     
     <item>
@@ -94,8 +81,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/research/talks/</guid>
-      <description>Introducing the O-Value: A Universal Standardization for Confusion Matrix-Based Classification Performance Metrics: The Thirteenth Annual Conference of the Upstate Chapters of the American Statistical Association (2025); Quality and Productivity Research Conference (2025); Data Science Research Group at Rochester Institute of Technology (2025); Ploutos AI Community Livestream (2025).
-  Optimal Bayesian Designs for Network A/B Testing: Joint Research Conference on Statistics in Quality, Industry, and Technology (2024); ASA/IMS Spring Research Conference (2025).</description>
+      <description>Error Analysis and Bias Correction of Shapley-value-based Black-Box Explanations: SLDS 2026.
+  Causal Inference for Recurrent Events in the Presence of A Terminal Event: SSC 2026.
+  Introducing the O-Value: A Universal Standardization for Confusion Matrix-Based Classification Performance Metrics: UPSTAT 2025; QPRC 2025; Data Science Research Group at RIT 2025; Ploutos AI Community Livestream 2025.
+  Optimal Bayesian Designs for Network A/B Testing: Joint Research Conference on Statistics in Quality, Industry, and Technology 2024; ASA/IMS Spring Research Conference 2025.</description>
     </item>
     
     <item>
@@ -115,11 +104,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/research/students/</guid>
-      <description>Undergraduates
-  Sanika Poojary. UWaterloo&amp;rsquo;s WiM DRP (2024). Project: Introduction to Explanable AI → Master of Data Science and Artificial Intelligence at University of Waterloo.
-  Jamiee Yeung. UWaterloo&amp;rsquo;s WiM DRP (2023, 2024). Projects: Visualizing and Analyzing Spatially Correlated Data, Introduction to Explanable AI → Analyst at Evercore.
-  Sagun Malwatkar. UWaterloo&amp;rsquo;s WiM DRP (2023). Project: Asymptotics for Linear Regression → Software Development Engineer at Amazon.
-  </description>
+      <description>PhD
+ Toan Mai. USask&amp;rsquo;s PhD in Statistics. 2027 &amp;ndash; present.  Master&amp;rsquo;s
+ Jeremy Bell. USask&amp;rsquo;s Master&amp;rsquo;s in Mathematics. Co-supervised with Steven Rayan. 2026 &amp;ndash; present.  Research Associate
+ Nguyen Pham. Oxford University Clinical Research Unit. 2026 &amp;ndash; present.  Undergraduate
+  Sanika Poojary. UWaterloo&amp;rsquo;s WiM DRP (2024). Project: Introduction to Explanable AI.   Jamiee Yeung. UWaterloo&amp;rsquo;s WiM DRP (2023, 2024). Projects: Visualizing and Analyzing Spatially Correlated Data, Introduction to Explanable AI.</description>
     </item>
     
     <item>
