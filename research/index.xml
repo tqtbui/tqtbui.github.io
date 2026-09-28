@@ -13,22 +13,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tqtbui.github.io/research/papers/</guid>
-      <description>Trustworthy AI
+      <description>Quality Control (incl. AI evaluation, interpretable AI, etc.)
   Introducing the O-Value: A Universal Standardization Method for Confusion-Matrix-Based Classification Performance Metrics - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski.
   Correcting Biases of Shapley Value Attributions for Informative Machine Learning Model Explanations - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski. CIKM 2024.
   Error Analysis of Shapley Value-Based Model Explanations: An Informative Perspective - with Ningsheng Zhao, Jia Yuan Yu and Krzysztof Dzieciolowski.</description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://tqtbui.github.io/research/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tqtbui.github.io/research/talks/</guid>
-      <description>Error Analysis and Bias Correction of Shapley-value-based Black-Box Explanations: SLDS 2026.
-  Causal Inference for Recurrent Events in the Presence of A Terminal Event: SSC 2026.
-  Introducing the O-Value: A Universal Standardization for Confusion Matrix-Based Classification Performance Metrics: UPSTAT 2025; QPRC 2025; Data Science Research Group at RIT 2025; Ploutos AI Community Livestream 2025.
-  Optimal Bayesian Designs for Network A/B Testing: Joint Research Conference on Statistics in Quality, Industry, and Technology 2024; ASA/IMS Spring Research Conference 2025.</description>
     </item>
     
     <item>
