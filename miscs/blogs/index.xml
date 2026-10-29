@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Trang Bui</copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 -0600</lastBuildDate><atom:link href="https://tqtbui.github.io/miscs/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Oct 2026 00:00:00 -0600</lastBuildDate><atom:link href="https://tqtbui.github.io/miscs/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Chain-of-Thoughts</title>
+      <link>https://tqtbui.github.io/miscs/blogs/chain-of-thoughts/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 -0600</pubDate>
+      
+      <guid>https://tqtbui.github.io/miscs/blogs/chain-of-thoughts/</guid>
+      <description>Many students, including me when I was a student, struggle to arrange their thoughts. The consequences for this is that we cannot make presentations that engage the audience, we cannot highlight the importance of our research, and we cannot showcase our caliber as a researcher. I have spent some time to think about this and formed a research chain-of-thoughts, which can be helpful in presentation delivery and manuscipt writing, where storytelling is important, and in research, where critical thinking and logical flow is the key.</description>
+    </item>
+    
     <item>
       <title>Advice for Ph.D. students</title>
       <link>https://tqtbui.github.io/miscs/blogs/phd-exp/</link>

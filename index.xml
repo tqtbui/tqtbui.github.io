@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Trang Bui</copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 -0600</lastBuildDate><atom:link href="https://tqtbui.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Oct 2026 00:00:00 -0600</lastBuildDate><atom:link href="https://tqtbui.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Courses</title>
       <link>https://tqtbui.github.io/teaching/courses/</link>
@@ -96,6 +96,15 @@
  Jeremy Bell. USask&amp;rsquo;s Master&amp;rsquo;s in Mathematics. Co-supervised with Steven Rayan. 2026 &amp;ndash; present.  Research Associate
  Nguyen Pham. Oxford University Clinical Research Unit. 2026 &amp;ndash; present.  Undergraduate
   Sanika Poojary. UWaterloo&amp;rsquo;s WiM DRP (2024). Project: Introduction to Explanable AI.   Jamiee Yeung. UWaterloo&amp;rsquo;s WiM DRP (2023, 2024). Projects: Visualizing and Analyzing Spatially Correlated Data, Introduction to Explanable AI.   Sagun Malwatkar. UWaterloo&amp;rsquo;s WiM DRP (2023).</description>
+    </item>
+    
+    <item>
+      <title>Research Chain-of-Thoughts</title>
+      <link>https://tqtbui.github.io/miscs/blogs/chain-of-thoughts/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 -0600</pubDate>
+      
+      <guid>https://tqtbui.github.io/miscs/blogs/chain-of-thoughts/</guid>
+      <description>Many students, including me when I was a student, struggle to arrange their thoughts. The consequences for this is that we cannot make presentations that engage the audience, we cannot highlight the importance of our research, and we cannot showcase our caliber as a researcher. I have spent some time to think about this and formed a research chain-of-thoughts, which can be helpful in presentation delivery and manuscipt writing, where storytelling is important, and in research, where critical thinking and logical flow is the key.</description>
     </item>
     
     <item>
